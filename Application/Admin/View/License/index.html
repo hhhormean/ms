@@ -1,0 +1,28 @@
+<extend name="Public/base"/>
+
+<block name="sidebar"></block>
+
+
+<block name="body">
+    <!-- 主体 -->
+    <foreach name="licenses" item="vo" >
+        {$vo.id} -
+        {$vo.license} -
+        {$vo.create_time|date="Y-m-d H:i:s",###} -
+        <switch name = 'vo.license_status' >
+            <case value="0">
+                未使用
+            </case>
+            <case value="-1">
+                已使用 -
+                {$vo.use_time|date="Y-m-d : H:i:s",###} -
+                {$vo.user_phone}
+            </case>
+            <default />
+        </switch>
+
+
+        <br/>
+    </foreach>
+</block>
+

@@ -1,0 +1,1185 @@
+[ 2016-08-15T10:41:38+08:00 ] ::1 /ms/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.085892s ]
+INFO: [ app_init ] --END-- [ RunTime:0.129627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.013246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013494s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.166210s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.075459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.037178s ]
+INFO: [ app_end ] --END-- [ RunTime:0.037413s ]
+
+[ 2016-08-15T14:05:48+08:00 ] ::1 /ms/admin
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002329s ]
+
+[ 2016-08-15T14:05:49+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002925s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000420s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.053907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.025552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001136s ]
+
+[ 2016-08-15T14:05:50+08:00 ] ::1 /ms/index.php?s=/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.001889s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001066s ]
+
+[ 2016-08-15T14:05:53+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005585s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001874s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.091770s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001093s ]
+
+[ 2016-08-15T14:05:54+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005181s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001925s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000509s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012709s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001326s ]
+
+[ 2016-08-15T14:05:54+08:00 ] ::1 /ms/index.php?s=/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.001907s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2016-08-15T14:06:02+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002993s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001334s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.040528s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001019s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1471241161,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.021888s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.036660s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade`,`head_pic` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000487s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.049485s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.129174s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1471241161,'admin在2016-08-15 14:06登录了后台') [ RunTime:0.000477s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000411s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1471154761 ) LIMIT 1   [ RunTime:0.015561s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.004527s ]
+SQL: UPDATE `ms_member` SET `score`=score+10 WHERE ( uid=1 AND status>-1 ) [ RunTime:0.005255s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1471241161,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000410s ]
+
+[ 2016-08-15T14:06:03+08:00 ] ::1 /ms/index.php?s=/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002047s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.067523s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.017363s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Index/index%' ) LIMIT 1   [ RunTime:0.000597s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.005046s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.000527s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 1 )  [ RunTime:0.000806s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 1 ) AND ( `hide` = 0 )  [ RunTime:0.000590s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000548s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001331s ]
+INFO: [ AdminIndex ] --START--
+SQL: SHOW COLUMNS FROM `ms_addons` [ RunTime:0.026461s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SiteStat' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000443s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.003805s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_member` LIMIT 1   [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.004371s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` LIMIT 1   [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.068397s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` LIMIT 1   [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.005808s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_category` LIMIT 1   [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `ms_model` [ RunTime:0.024288s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_model` LIMIT 1   [ RunTime:0.000334s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.184250s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000643s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000984s ]
+INFO: Run SiteStat [ RunTime:0.173583s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SystemInfo' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000544s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.323923s ]
+SQL: select version() as v; [ RunTime:0.016963s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.044238s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.116607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.160370s ]
+INFO: Run SystemInfo [ RunTime:0.160921s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'DevTeam' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.001003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000239s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.388187s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014318s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.190909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.204755s ]
+INFO: Run DevTeam [ RunTime:0.044248s ]
+INFO: [ AdminIndex ] --END-- [ RunTime:0.379451s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016638s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.190909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000099s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.207054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003008s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004101s ]
+
+[ 2016-08-15T14:06:16+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002333s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+ERR: Think\Controller:get_general_args方法不存在！
+
+[ 2016-08-15T14:09:10+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003814s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002375s ]
+
+[ 2016-08-15T14:11:29+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003627s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001445s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000945s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001218s ]
+
+[ 2016-08-15T14:11:58+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001239s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001226s ]
+
+[ 2016-08-15T14:12:01+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002030s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002024s ]
+
+[ 2016-08-15T14:12:03+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001320s ]
+
+[ 2016-08-15T14:12:06+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005270s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006639s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001261s ]
+
+[ 2016-08-15T14:12:09+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005954s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001863s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001130s ]
+
+[ 2016-08-15T14:12:35+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002434s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2016-08-15T14:12:41+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003671s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001462s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002061s ]
+
+[ 2016-08-15T14:14:21+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001300s ]
+
+[ 2016-08-15T14:14:30+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 100 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001077s ]
+
+[ 2016-08-15T14:17:33+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002701s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: r D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 101 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001012s ]
+
+[ 2016-08-15T14:38:13+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003657s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001915s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001273s ]
+
+[ 2016-08-15T14:38:31+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005609s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000408s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000684s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001182s ]
+
+[ 2016-08-15T14:38:36+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002295s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000345s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007394s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2016-08-15T14:38:50+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002585s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.023329s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2016-08-15T14:39:19+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002941s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001364s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.026789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2016-08-15T14:40:21+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007588s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002287s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000259s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.027178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027420s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002198s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003020s ]
+
+[ 2016-08-15T14:42:29+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002934s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001225s ]
+
+[ 2016-08-15T14:44:19+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004536s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001364s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.025874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001594s ]
+
+[ 2016-08-15T14:44:36+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003907s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000242s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.028466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001471s ]
+
+[ 2016-08-15T14:44:45+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002393s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000252s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022552s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001145s ]
+
+[ 2016-08-15T14:44:58+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001528s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000434s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.042700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003587s ]
+
+[ 2016-08-15T14:45:03+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000306s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000568s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.023559s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023818s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001201s ]
+
+[ 2016-08-15T14:46:36+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002672s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.021971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-08-15T14:46:54+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005752s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.027672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001177s ]
+
+[ 2016-08-15T14:47:58+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004515s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001293s ]
+
+[ 2016-08-15T14:48:08+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004926s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005897s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002537s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001004s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001691s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.028412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028862s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000641s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000937s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013555s ]
+
+[ 2016-08-15T14:48:14+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.001966s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000214s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022341s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001310s ]
+
+[ 2016-08-15T14:48:25+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005441s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.029838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030086s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001137s ]
+
+[ 2016-08-15T14:48:29+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000213s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023045s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2016-08-15T14:48:36+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004966s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000267s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000509s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.027382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001804s ]
+
+[ 2016-08-15T14:49:02+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002971s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000427s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003366s ]
+
+[ 2016-08-15T14:49:16+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003523s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.026116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026340s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001377s ]
+
+[ 2016-08-15T14:49:37+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002342s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000233s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.023907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001219s ]
+
+[ 2016-08-15T14:49:48+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005662s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.029571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029835s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001368s ]
+
+[ 2016-08-15T14:49:54+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.026405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001175s ]
+
+[ 2016-08-15T14:50:01+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002450s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.021486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001206s ]
+
+[ 2016-08-15T14:51:56+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.028504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001580s ]
+
+[ 2016-08-15T14:52:22+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003676s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.024674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000569s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001129s ]
+
+[ 2016-08-15T14:52:34+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002538s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.023768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001497s ]
+
+[ 2016-08-15T14:53:46+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005613s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000378s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000755s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.021843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001032s ]
+
+[ 2016-08-15T14:53:57+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002612s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.021754s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001465s ]
+
+[ 2016-08-15T14:54:03+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004480s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001996s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000387s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000804s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.057799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000558s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002175s ]
+
+[ 2016-08-15T14:54:10+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005511s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000322s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000610s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002140s ]
+
+[ 2016-08-15T14:55:59+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003917s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001592s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000432s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.023247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001264s ]
+
+[ 2016-08-15T15:17:14+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003844s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+
+[ 2016-08-15T15:17:19+08:00 ] ::1 /ms/index.php?s=/Admin/Live/create
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002347s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000465s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 5 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 36 行.
+NOTIC: [8] Undefined variable: __MENU__ D:\xampp\htdocs\ms\Runtime\Cache\Admin\27ac1bcabccccc8d71660dc8e1c9f7a1.php 第 60 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.024910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025142s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001288s ]
+

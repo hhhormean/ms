@@ -1,0 +1,73 @@
+<extend name="Public/base"/>
+
+<block name="body">
+    <div class="main-title">
+        <h2>{:isset($info['id'])?'编辑':'新增'}专辑</h2>
+    </div>
+    <form action="{:U()}" method="post" class="form-horizontal" enctype="multipart/form-data">
+        <div class="form-item">
+            <label class="item-label"><span class="must">*</span>专辑标题<span class="check-tips">（用于APP专辑显示的标题）</span></label>
+            <div class="controls">
+                <input type="text" class="text input-large" name="title" value="{$info.title|default=''}">
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label"><span class="must">*</span>封面</label>
+            <div class="controls">
+                <input type="file" class="ke-upload-file" name="imgFile" tabindex="-1" >
+            </div>
+        </div>
+
+        <if condition = "isset($info['cover'])">
+            <div class="form-item" >
+                <img src="{$info.cover}" alt="" width="200px">
+            </div>
+        </if>
+
+        <div class="form-item">
+            <label class="item-label"><span class="must">*</span>总章节数<span class="check-tips"></span></label>
+            <div class="controls">
+                <input type="number" class="number input-small" name="section_count" value="{$info.section_count}" min="1">
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">描述</label>
+            <div class="controls">
+                <label class="textarea input-large">
+                    <textarea name="description" placeholder="请输入对专辑的描述">{$info.description}</textarea>
+                </label>
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label"><span class="must">*</span>分类<span class="check-tips">（所属的视频分类）</span></label>
+            <div class="controls">
+                <select name="category" >
+                    <volist name="Menus" id="menu" >
+                        <if condition="$info['category'] eq $menu.id ">
+                            <option value="{$menu.id}" selected="selected">{$menu.title_show}</option>
+                            <else />
+                            <option value="{$menu.id}">{$menu.title_show}</option>
+                        </if>
+
+                    </volist>
+                </select>
+            </div>
+        </div>
+        <input type="hidden" name="id" value="{$info.id}">
+        <div class="form-item">
+            <button class="btn submit-btn " id="submit" type="submit" >确 定</button>
+            <button class="btn btn-return" onclick="javascript:history.back(-1);return false;">返 回</button>
+        </div>
+    </form>
+
+</block>
+
+<block name="script">
+    <script type="text/javascript">
+        Think.setValue("pid", {$info.pid|default = 0});
+        Think.setValue("hide", {$info.hide|default = 0});
+        Think.setValue("is_dev", {$info.is_dev|default = 0});
+        //导航高亮
+        highlight_subnav('{:U('index')}');
+    </script>
+</block>

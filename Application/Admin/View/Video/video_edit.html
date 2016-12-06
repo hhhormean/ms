@@ -1,0 +1,72 @@
+<extend name="Public/base"/>
+
+<block name="body">
+    <div class="main-title">
+        <h2>{:isset($info['id'])?'编辑':'新增'}视频分类</h2>
+    </div>
+    <form action="{:U()}" method="post" class="form-horizontal">
+        <div class="form-item">
+            <label class="item-label">视频标题<span class="check-tips">（用于APP视频显示的标题）</span></label>
+            <div class="controls">
+                <input type="text" class="text input-large" name="title" value="{$info.title|default=''}">
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">视频上传<span class="check-tips">（视频需要5分钟审核转码）</span></label>
+            <!--<div class="controls">-->
+                <!--<input type="file" class="fileName" name="url">-->
+            <!--</div>-->
+            <table class="table" border="1">
+                <thead>
+                <tr>
+                    <th>视频名称</th>
+                    <th>视频ID</th>
+                    <th>上传进度</th>
+                    <th>上传速度</th>
+                    <th>上传状态</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td id="videoName"></td>
+                    <td id="videoId"></td>
+                    <td id="videoProgress"></td>
+                    <td id="videoSpeed"></td>
+                    <td id="videoStatus"></td>
+                </tr>
+                </tbody>
+            </table>
+            <input type="button" class="uploadBtn" id="uploadBtn" value="开始上传" />
+            <input type="button" id='fileSelecter' class="uploadBtn" value="添加视频" />
+        </div>
+        <div class="form-item">
+            <input type="hidden" name="album_id" value="{$info.album_id|default=I('get.album_id')}">
+            <button class="btn submit-btn ajax-post" id="submit" type="submit" target-form="form-horizontal">确 定</button>
+            <button class="btn btn-return" onclick="javascript:history.back(-1);return false;">返 回</button>
+        </div>
+    </form>
+
+    <div id="nodeGroup"></div>
+</block>
+
+<block name="script">
+
+    <script type="text/javascript">
+        $("#uploadBtn").click(function () {
+            window.uploadFunction({
+                file: window.userSelectedFiles[window.userSelectedFiles.length-1],//要上传的文件
+                uploadUrl: "{:U('video_upload')}",
+            });
+        });
+
+
+
+    </script>
+    <script type="text/javascript">
+        Think.setValue("pid", {$info.pid|default = 0});
+        Think.setValue("hide", {$info.hide|default = 0});
+        Think.setValue("is_dev", {$info.is_dev|default = 0});
+        //导航高亮
+        highlight_subnav('{:U('VideoAlbum/index')}');
+    </script>
+</block>

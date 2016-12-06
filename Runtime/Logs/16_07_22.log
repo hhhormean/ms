@@ -1,0 +1,840 @@
+[ 2016-07-22T13:37:13+08:00 ] ::1 /ms/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.117986s ]
+INFO: [ app_init ] --END-- [ RunTime:0.146916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.025472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025661s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.169644s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.055386s ]
+
+[ 2016-07-22T13:41:25+08:00 ] ::1 /ms/index.php?s=/Home/Video/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002393s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.013773s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.003247s ]
+
+[ 2016-07-22T13:42:14+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategory
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001806s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008479s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001033s ]
+
+[ 2016-07-22T13:42:28+08:00 ] ::1 /ms/index.php?s=/Home/Video/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007217s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002268s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008710s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001011s ]
+
+[ 2016-07-22T13:45:18+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategory
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006394s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001719s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008002s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001118s ]
+
+[ 2016-07-22T13:45:18+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004919s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007456s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001027s ]
+
+[ 2016-07-22T13:45:20+08:00 ] ::1 /ms/index.php?s=/Home/Video/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004637s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007500s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000999s ]
+
+[ 2016-07-22T13:45:22+08:00 ] ::1 /ms/index.php?s=/Home/Video/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005502s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007617s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000999s ]
+
+[ 2016-07-22T13:45:31+08:00 ] ::1 /ms/index.php?s=/Home/Video/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001905s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.028913s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001007s ]
+
+[ 2016-07-22T13:48:00+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005793s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001787s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008363s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001090s ]
+
+[ 2016-07-22T13:48:06+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004661s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005877s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001441s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007862s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000999s ]
+
+[ 2016-07-22T13:48:16+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005290s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001491s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008063s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001001s ]
+
+[ 2016-07-22T13:49:02+08:00 ] ::1 /ms/index.php?s=/Home/Video/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004711s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.018414s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001070s ]
+
+[ 2016-07-22T13:51:04+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid/pid/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006358s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008162s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001056s ]
+
+[ 2016-07-22T13:51:56+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005443s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008914s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001019s ]
+
+[ 2016-07-22T14:09:18+08:00 ] ::1 /ms/index.php?s=/Home/Video/ggetVideoListById/id/11
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006239s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001720s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007753s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001101s ]
+
+[ 2016-07-22T14:09:18+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004773s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001572s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006260s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000965s ]
+
+[ 2016-07-22T14:09:21+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003877s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001946s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007535s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000993s ]
+
+[ 2016-07-22T14:09:30+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005452s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001444s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.022305s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001029s ]
+
+[ 2016-07-22T14:12:58+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/12
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.030665s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000983s ]
+
+[ 2016-07-22T14:13:05+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/13
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005834s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.044436s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001366s ]
+
+[ 2016-07-22T14:13:08+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/12
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001426s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.018312s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000988s ]
+
+[ 2016-07-22T14:13:12+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005916s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001483s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006212s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001184s ]
+
+[ 2016-07-22T14:17:50+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/id/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005998s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002087s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007851s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001001s ]
+
+[ 2016-07-22T14:17:59+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005660s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001529s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008265s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000993s ]
+
+[ 2016-07-22T14:18:03+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004643s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007878s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000989s ]
+
+[ 2016-07-22T14:21:27+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007325s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008702s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001776s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007751s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001005s ]
+
+[ 2016-07-22T14:22:02+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004522s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005639s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001436s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008513s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001013s ]
+
+[ 2016-07-22T14:22:44+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005621s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007835s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001314s ]
+
+[ 2016-07-22T14:23:00+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.023963s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000993s ]
+
+[ 2016-07-22T14:23:21+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007942s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001006s ]
+
+[ 2016-07-22T14:23:38+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006580s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001611s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.047339s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000971s ]
+
+[ 2016-07-22T14:24:26+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004700s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006595s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000986s ]
+
+[ 2016-07-22T14:24:52+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004772s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007630s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001114s ]
+
+[ 2016-07-22T14:25:05+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005168s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008555s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001009s ]
+
+[ 2016-07-22T14:25:14+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004835s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001974s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008065s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001041s ]
+
+[ 2016-07-22T14:25:31+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004752s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005937s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002101s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007775s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001035s ]
+
+[ 2016-07-22T14:29:36+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005586s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006970s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001706s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.025003s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001001s ]
+
+[ 2016-07-22T14:29:44+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid/id/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004596s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001429s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007889s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001069s ]
+
+[ 2016-07-22T14:30:01+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003931s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001314s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007689s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001034s ]
+
+[ 2016-07-22T14:38:08+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006463s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007414s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001020s ]
+
+[ 2016-07-22T14:39:02+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004699s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006012s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001353s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.009164s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001135s ]
+
+[ 2016-07-22T14:40:13+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005726s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002147s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.046829s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000990s ]
+
+[ 2016-07-22T14:42:30+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001747s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006692s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001055s ]
+
+[ 2016-07-22T14:43:11+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006401s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007826s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001750s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008073s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000981s ]
+
+[ 2016-07-22T14:43:22+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004666s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007804s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001118s ]
+
+[ 2016-07-22T14:43:29+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.023402s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000963s ]
+
+[ 2016-07-22T14:43:34+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008755s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001156s ]
+
+[ 2016-07-22T14:43:39+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004699s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001535s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007419s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001040s ]
+
+[ 2016-07-22T14:43:46+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004652s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002031s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008104s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000990s ]
+
+[ 2016-07-22T14:44:03+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007732s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001077s ]
+
+[ 2016-07-22T14:44:24+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004844s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001455s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007674s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001001s ]
+
+[ 2016-07-22T14:50:21+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006365s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002019s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008329s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001126s ]
+
+[ 2016-07-22T14:50:25+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004656s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001999s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.032087s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000995s ]
+
+[ 2016-07-22T14:50:44+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004636s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001466s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.022649s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000949s ]
+
+[ 2016-07-22T14:52:18+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004672s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001557s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007876s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001005s ]
+
+[ 2016-07-22T14:52:34+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006487s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001716s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008188s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000984s ]
+
+[ 2016-07-22T14:52:57+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004641s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005764s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001782s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008079s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000987s ]
+
+[ 2016-07-22T14:53:21+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008015s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001004s ]
+
+[ 2016-07-22T14:53:43+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004623s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001402s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007805s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000972s ]
+
+[ 2016-07-22T14:53:46+08:00 ] ::1 /ms/index.php?s=/Home/Video/getCategoryByPid/pid/5
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004745s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001462s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007638s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001055s ]
+
+[ 2016-07-22T14:53:53+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004706s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008314s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001093s ]
+
+[ 2016-07-22T14:57:38+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006985s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001743s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006254s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000988s ]
+
+[ 2016-07-22T14:59:04+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001722s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008346s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001012s ]
+
+[ 2016-07-22T14:59:58+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005643s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001857s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.032201s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001379s ]
+
+[ 2016-07-22T15:00:42+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001525s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008444s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001015s ]
+
+[ 2016-07-22T15:00:57+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004665s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001774s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.030184s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000988s ]
+
+[ 2016-07-22T15:01:28+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoContent
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004623s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001717s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.010029s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001057s ]
+
+[ 2016-07-22T15:20:42+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005688s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001663s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007599s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001112s ]
+
+[ 2016-07-22T15:20:45+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/2
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005597s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.030648s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000980s ]
+
+[ 2016-07-22T15:20:48+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004896s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006697s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001080s ]
+
+[ 2016-07-22T15:20:57+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/0
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008580s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000989s ]
+
+[ 2016-07-22T15:21:01+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004709s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007587s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000980s ]
+
+[ 2016-07-22T15:21:26+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/2
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004680s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002005s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007813s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001132s ]
+
+[ 2016-07-22T15:21:30+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005756s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007713s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000991s ]
+
+[ 2016-07-22T15:21:42+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004659s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002028s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.032332s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000993s ]
+
+[ 2016-07-22T15:21:47+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/2
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001454s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.049413s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001973s ]
+
+[ 2016-07-22T15:21:49+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/3
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003932s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.012257s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000997s ]
+
+[ 2016-07-22T15:21:52+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/4
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005400s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.034572s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001099s ]
+
+[ 2016-07-22T15:22:34+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/4
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003919s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007231s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001213s ]
+
+[ 2016-07-22T15:22:37+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001486s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007808s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000994s ]
+
+[ 2016-07-22T15:22:40+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/2
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005310s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007836s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001181s ]
+
+[ 2016-07-22T15:22:43+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/3
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005978s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001814s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007797s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001022s ]
+
+[ 2016-07-22T15:29:43+08:00 ] ::1 /ms/index.php?s=/Home/Video/getVideoListById/id/11/page/3
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006472s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001725s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008367s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001002s ]
+

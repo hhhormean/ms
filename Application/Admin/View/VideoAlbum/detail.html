@@ -1,0 +1,70 @@
+<extend name="Public/base"/>
+
+
+<block name="body">
+    <div class="main-title">
+        <h2>我的专辑</h2>
+    </div>
+
+    <div class="cf">
+        <a class="btn" href="{:U('video/add',array('album_id'=>I('get.id',0)))}">新增课程</a>
+        <button class="btn ajax-post confirm" url="{:U('del')}" target-form="ids">删 除</button>
+    </div>
+    {//:dump($data)}
+    <div class="data-table table-striped">
+        <form class="ids">
+            <table>
+                <thead>
+                <tr>
+                    <th class="row-selected">
+                        <input class="checkbox check-all" type="checkbox">
+                    </th>
+                    <th>课程名称</th>
+                    <th>浏览数</th>
+                    <th>评论数</th>
+                    <th>更新时间</th>
+                    <th>视频</th>
+                    <th>操作</th>
+                </tr>
+                </thead>
+                <tbody>
+                <notempty name="data.section_detail">
+                    <volist name="data.section_detail" id="menu">
+                        <tr>
+                            <td><input class="ids row-selected" type="checkbox" name="id[]" value="{$menu.id}"></td>
+
+                            <td>{$menu.title}</td>
+                            <td>{$menu.view}</td>
+                            <td>{$menu.comment}</td>
+                            <td>{$menu.update_time|time_format}</td>
+                            <td><a href="{$menu.url}" target="_blank">点击观看</a></td>
+                            <td>
+                                <a title="编辑" href="{:U('Video/video_edit?id='.$menu['id'])}">编辑</a>
+                                <a class="confirm ajax-get" title="删除" href="{:U('video_del?id='.$menu['id'])}">删除</a>
+                            </td>
+                        </tr>
+                    </volist>
+                    <else/>
+                    <td colspan="10" class="text-center"> aOh! 暂时还没有内容! </td>
+                </notempty>
+                </tbody>
+            </table>
+        </form>
+        <!-- 分页 -->
+        <div class="page">
+
+        </div>
+
+        <button class="btn btn-return right" style="float: right" onclick="javascript:history.back(-1);return false;">返 回</button>
+
+    </div>
+</block>
+
+<block name="script">
+    <script type="text/javascript">
+        $(function() {
+            //导航高亮
+            highlight_subnav('{:U('VideoAlbum/index')}');
+        });
+    </script>
+</block>

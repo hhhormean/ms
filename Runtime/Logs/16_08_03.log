@@ -1,0 +1,988 @@
+[ 2016-08-03T10:19:38+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage?phone=15622324796
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.141245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.180247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.014157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014396s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.056569s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.002245s ]
+
+[ 2016-08-03T10:19:38+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002095s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005984s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000940s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.019591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019795s ]
+
+[ 2016-08-03T10:19:39+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.h
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.001888s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.002588s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000409s ]
+
+[ 2016-08-03T10:19:39+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.001732s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.003273s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-08-03T10:47:36+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004379s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.009583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010018s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.024258s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001867s ]
+
+[ 2016-08-03T10:49:41+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004965s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001108s ]
+
+[ 2016-08-03T10:49:52+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007412s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002497s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.008628s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002489s ]
+
+[ 2016-08-03T10:49:54+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005791s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.009645s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002332s ]
+
+[ 2016-08-03T10:50:03+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003979s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005680s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001275s ]
+
+[ 2016-08-03T10:50:16+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003637s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006069s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000974s ]
+
+[ 2016-08-03T10:52:21+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005537s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001546s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006557s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000866s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001682s ]
+
+[ 2016-08-03T11:04:52+08:00 ] ::1 /ms/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004567s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005171s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001007s ]
+
+[ 2016-08-03T11:17:50+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002530s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004412s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2016-08-03T11:18:33+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002483s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.019871s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.033043s ]
+SQL: SELECT * FROM `ms_video_pic`  [ RunTime:0.000835s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002130s ]
+
+[ 2016-08-03T11:19:02+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005971s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006086s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003306s ]
+SQL: SELECT * FROM `ms_video_pic`  [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001128s ]
+
+[ 2016-08-03T11:19:29+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002957s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003764s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004257s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003964s ]
+SQL: SELECT * FROM `ms_video_pic`  [ RunTime:0.000405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2016-08-03T11:19:36+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005653s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002211s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.026029s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003758s ]
+SQL: SELECT * FROM `ms_video_pic`  [ RunTime:0.000400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001081s ]
+
+[ 2016-08-03T11:20:30+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007405s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005502s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000576s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003950s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc  [ RunTime:0.013265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001328s ]
+
+[ 2016-08-03T11:24:18+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001418s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005043s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003868s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.108840s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 0,1   [ RunTime:0.001048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002576s ]
+
+[ 2016-08-03T11:24:25+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/2
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003490s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004901s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004626s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000535s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.004325s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000410s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 1,1   [ RunTime:0.000474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000923s ]
+
+[ 2016-08-03T11:24:29+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004442s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006341s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003856s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000360s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 0,1   [ RunTime:0.000343s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2016-08-03T11:24:32+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/3
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005674s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001409s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006257s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000830s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.004817s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000462s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 2,1   [ RunTime:0.000504s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001246s ]
+
+[ 2016-08-03T11:25:41+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/3
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006327s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001958s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007239s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.004826s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000531s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 2,1   [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001367s ]
+
+[ 2016-08-03T11:26:03+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/3
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005897s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003269s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000329s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 2,1   [ RunTime:0.000320s ]
+
+[ 2016-08-03T11:26:07+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005662s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001922s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006271s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.004441s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000481s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 0,1   [ RunTime:0.000473s ]
+
+[ 2016-08-03T14:24:16+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.119192s ]
+INFO: [ app_init ] --END-- [ RunTime:0.162391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.025867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026412s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.215318s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.084028s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.022822s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.052614s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 0,1   [ RunTime:0.000451s ]
+
+[ 2016-08-03T14:24:17+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003580s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005174s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003368s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000348s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 0,1   [ RunTime:0.000450s ]
+
+[ 2016-08-03T14:25:05+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006467s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005221s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000647s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003252s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000437s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 0,10   [ RunTime:0.000315s ]
+
+[ 2016-08-03T14:28:39+08:00 ] ::1 /ms/index.php?s=/Home/Video/video_pic/p/1
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004319s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004393s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000648s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.003015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000364s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc LIMIT 0,10   [ RunTime:0.000328s ]
+
+[ 2016-08-03T15:01:41+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002464s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004225s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000402s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.050544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.050928s ]
+
+[ 2016-08-03T15:01:49+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001402s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004175s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2016-08-03T15:01:59+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004064s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000916s ]
+
+[ 2016-08-03T15:02:32+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007216s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008907s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002425s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.003773s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.066020s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001334s ]
+
+[ 2016-08-03T15:03:31+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004720s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003476s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000482s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1470207810,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.028168s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.024184s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade`,`head_pic` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000512s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1470207810,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.027226s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000791s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.131299s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1470207810,'admin在2016-08-03 15:03登录了后台') [ RunTime:0.021769s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000862s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1470121410 ) LIMIT 1   [ RunTime:0.024583s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.009000s ]
+SQL: UPDATE `ms_member` SET `score`=score+10 WHERE ( uid=1 AND status>-1 ) [ RunTime:0.000986s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.006390s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000899s ]
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='MTQ3MTUwMzgxMYaFhZSOeLSlg35_ZICo1N6BnKtlr61y3X56lGqzunpy' WHERE ( `username` = 'admin' ) [ RunTime:0.000799s ]
+
+[ 2016-08-03T15:06:54+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003654s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004790s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000547s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003744s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000520s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1470208013,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.003771s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade`,`head_pic` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000574s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1470208013,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000577s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.003510s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.003592s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1470208013,'admin在2016-08-03 15:06登录了后台') [ RunTime:0.000431s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000450s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1470121613 ) LIMIT 1   [ RunTime:0.000731s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003666s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000482s ]
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='MTQ3MTUwNDAxNId1kZWOoadtj6Gam4ze1N6BnKtlr61y3X56mK2zuoZy' WHERE ( `username` = 'admin' ) [ RunTime:0.000427s ]
+
+[ 2016-08-03T15:07:17+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006303s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.014072s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000545s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003406s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001603s ]
+
+[ 2016-08-03T15:10:37+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004723s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004258s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001287s ]
+
+[ 2016-08-03T15:11:06+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003698s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004710s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000532s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003518s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2016-08-03T15:11:53+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004941s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004891s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003529s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001140s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001415s ]
+
+[ 2016-08-03T15:13:38+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007627s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003073s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005107s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000601s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003657s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001382s ]
+
+[ 2016-08-03T15:13:55+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003698s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001592s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.073536s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003260s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001065s ]
+
+[ 2016-08-03T15:32:41+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.002958s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003034s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000413s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 71 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002353s ]
+
+[ 2016-08-03T15:33:06+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002342s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004897s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000495s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.002970s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000399s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 72 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002639s ]
+
+[ 2016-08-03T15:40:14+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.026211s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.004448s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000544s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 73 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 73 行.
+NOTIC: [2] Illegal string offset 'url' D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 26 行.
+
+[ 2016-08-03T15:40:25+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002786s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.020916s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003905s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000426s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 73 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 73 行.
+NOTIC: [2] Illegal string offset 'url' D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002435s ]
+
+[ 2016-08-03T15:42:01+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003395s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006355s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.004172s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000452s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 73 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 73 行.
+NOTIC: [2] Illegal string offset 'url' D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002541s ]
+
+[ 2016-08-03T15:43:09+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004890s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001836s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005031s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003656s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000538s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 74 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 74 行.
+NOTIC: [2] Illegal string offset 'url' D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002563s ]
+
+[ 2016-08-03T15:44:10+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002611s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.003407s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000440s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003838s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000385s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 74 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 74 行.
+NOTIC: [2] Illegal string offset 'url' D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002907s ]
+
+[ 2016-08-03T15:45:49+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003210s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004531s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003986s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000384s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 75 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 75 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002181s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002810s ]
+
+[ 2016-08-03T15:52:29+08:00 ] ::1 /ms/index.php?s=/Home/Painting/postPainting
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005596s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006977s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.003769s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000409s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Undefined index: Expires D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 45 行.
+NOTIC: [8] Undefined index: saveName D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 80 行.
+NOTIC: [8] Undefined index: custom_fields D:\xampp\htdocs\ms\ThinkPHP\Library\Think\Upload\Driver\Qiniu\QiniuStorage.class.php 第 83 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 78 行.
+NOTIC: [8] Undefined index: imgFile D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 78 行.
+SQL: SHOW COLUMNS FROM `ms_painting` [ RunTime:0.010293s ]
+SQL: INSERT INTO `ms_painting` (`uid`,`content`,`category`,`pic_url`,`date`,`status`) VALUES (1,'qwe',0,'http://oab1rbnp9.bkt.clouddn.com/2016-08-03_57a1a2bc9eb96.png|http://oab1rbnp9.bkt.clouddn.com/2016-08-03_57a1a2bcb78e1.jpg|http://oab1rbnp9.bkt.clouddn.com/2016-08-03_57a1a2bcd41b7.png',1470210748,0) [ RunTime:0.089168s ]
+
+[ 2016-08-03T15:57:43+08:00 ] ::1 /ms/index.php?s=/Home/Painting/getCategory
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004234s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005476s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000504s ]
+SQL: SHOW COLUMNS FROM `ms_video_category` [ RunTime:0.003401s ]
+SQL: SELECT `id`,`title` FROM `ms_video_category` WHERE ( `pid` = 0 )  [ RunTime:0.000393s ]
+
+[ 2016-08-03T16:48:37+08:00 ] ::1 /ms/index.php?s=/Home/Painting/paintingList
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003870s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005040s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `ms_painting` [ RunTime:0.003557s ]
+SQL: SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 )  [ RunTime:0.000452s ]
+ERR: 1054:Unknown column 'data' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 ) 
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2016-08-03T16:48:47+08:00 ] ::1 /ms/index.php?s=/Home/Painting/paintingList
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004181s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001752s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007022s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `ms_painting` [ RunTime:0.046825s ]
+SQL: SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 )  [ RunTime:0.000362s ]
+ERR: 1054:Unknown column 'data' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 ) 
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001181s ]
+
+[ 2016-08-03T16:49:28+08:00 ] ::1 /ms/index.php?s=/Home/Painting/paintingList
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.003526s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `ms_painting` [ RunTime:0.003951s ]
+SQL: SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 )  [ RunTime:0.000278s ]
+ERR: 1054:Unknown column 'data' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 ) 
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2016-08-03T16:49:32+08:00 ] ::1 /ms/index.php?s=/Home/Painting/paintingList
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006370s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007862s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002041s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006737s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `ms_painting` [ RunTime:0.004946s ]
+SQL: SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 )  [ RunTime:0.000384s ]
+ERR: 1054:Unknown column 'data' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 ) 
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001492s ]
+
+[ 2016-08-03T16:49:47+08:00 ] ::1 /ms/index.php?s=/Home/Painting/paintingList
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005718s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.005409s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000508s ]
+SQL: SHOW COLUMNS FROM `ms_painting` [ RunTime:0.003947s ]
+SQL: SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 )  [ RunTime:0.000374s ]
+ERR: 1054:Unknown column 'data' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 ) 
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2016-08-03T16:50:28+08:00 ] ::1 /ms/index.php?s=/Home/Painting/paintingList
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.006105s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `ms_painting` [ RunTime:0.004631s ]
+SQL: SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 )  [ RunTime:0.000349s ]
+ERR: 1054:Unknown column 'data' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`content`,`category`,`data`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 ) 
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\ms\Application\Home\Controller\PaintingController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001252s ]
+
+[ 2016-08-03T16:50:54+08:00 ] ::1 /ms/index.php?s=/Home/Painting/paintingList
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002541s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.004912s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `ms_painting` [ RunTime:0.003404s ]
+SQL: SELECT `uid`,`content`,`category`,`date`,`pic_url`,`video_url`,`comment_id` FROM `ms_painting` WHERE ( `status` = 1 )  [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000831s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+

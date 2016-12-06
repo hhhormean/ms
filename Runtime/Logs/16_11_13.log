@@ -1,0 +1,650 @@
+[ 2016-11-13T14:23:00+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.107883s ]
+INFO: [ app_init ] --END-- [ RunTime:0.158071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.027533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028143s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000336s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001072s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.094692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.019780s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.012315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012953s ]
+
+[ 2016-11-13T14:23:01+08:00 ] ::1 /ms/index.php?s=/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002607s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002526s ]
+
+[ 2016-11-13T14:23:04+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.278090s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.082245s ]
+
+[ 2016-11-13T14:23:05+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000378s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2016-11-13T14:23:05+08:00 ] ::1 /ms/index.php?s=/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.001853s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000920s ]
+
+[ 2016-11-13T14:23:11+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003356s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.004772s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000482s ]
+
+[ 2016-11-13T14:23:11+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001928s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000528s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000628s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001498s ]
+
+[ 2016-11-13T14:23:12+08:00 ] ::1 /ms/index.php?s=/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.001953s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001151s ]
+
+[ 2016-11-13T14:23:18+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002372s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.004332s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000406s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1479018197,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.063692s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.033371s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade`,`head_pic` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.023872s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.040705s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.006497s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1479018197,'admin在2016-11-13 14:23登录了后台') [ RunTime:0.034930s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000894s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1478931797 ) LIMIT 1   [ RunTime:0.223086s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.006664s ]
+SQL: UPDATE `ms_member` SET `score`=score+10 WHERE ( uid=1 AND status>-1 ) [ RunTime:0.022355s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1479018197,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000834s ]
+
+[ 2016-11-13T14:23:19+08:00 ] ::1 /ms/index.php?s=/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002482s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.030510s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.030460s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Index/index%' ) LIMIT 1   [ RunTime:0.012682s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.007114s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.000732s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 1 )  [ RunTime:0.041464s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 1 ) AND ( `hide` = 0 )  [ RunTime:0.001012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000436s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000957s ]
+INFO: [ AdminIndex ] --START--
+SQL: SHOW COLUMNS FROM `ms_addons` [ RunTime:0.023553s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SiteStat' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.001057s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007368s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_member` LIMIT 1   [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.006308s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` LIMIT 1   [ RunTime:0.000542s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.024068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` LIMIT 1   [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.026589s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_category` LIMIT 1   [ RunTime:0.000638s ]
+SQL: SHOW COLUMNS FROM `ms_model` [ RunTime:0.024259s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_model` LIMIT 1   [ RunTime:0.000637s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.268098s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.043166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043711s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001055s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001565s ]
+INFO: Run SiteStat [ RunTime:0.234424s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SystemInfo' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000878s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000258s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.526403s ]
+SQL: select version() as v; [ RunTime:0.011725s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.053113s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.202241s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.254291s ]
+INFO: Run SystemInfo [ RunTime:0.254299s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'DevTeam' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000949s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000448s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.579672s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014457s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.280806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.294250s ]
+INFO: Run DevTeam [ RunTime:0.039703s ]
+INFO: [ AdminIndex ] --END-- [ RunTime:0.529688s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016690s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.280806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.296401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003776s ]
+
+[ 2016-11-13T14:23:23+08:00 ] ::1 /ms/index.php?s=/Admin/VideoCategory/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003231s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003030s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000550s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%VideoCategory/index%' ) LIMIT 1   [ RunTime:0.000364s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003215s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=126 ) LIMIT 1   [ RunTime:0.000367s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 126 )  [ RunTime:0.000410s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 126 ) AND ( `hide` = 0 )  [ RunTime:0.000449s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '视频' ) AND ( `pid` = 126 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000551s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '图片' ) AND ( `pid` = 126 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `ms_video_category` [ RunTime:0.029221s ]
+SQL: SELECT `id`,`title`,`pid`,`sort` FROM `ms_video_category` WHERE ( `pid` = 0 ) AND ( `title` LIKE '%%' ) ORDER BY sort asc,id asc  [ RunTime:0.000525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000248s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000450s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.054643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054895s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001713s ]
+
+[ 2016-11-13T14:23:24+08:00 ] ::1 /ms/index.php?s=/Admin/App/app_index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003345s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000662s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%App/app_index%' ) LIMIT 1   [ RunTime:0.000399s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.002842s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=123 ) LIMIT 1   [ RunTime:0.000346s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 123 )  [ RunTime:0.000350s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 123 ) AND ( `hide` = 0 )  [ RunTime:0.000365s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '排版' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000364s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `ms_app` [ RunTime:0.017200s ]
+SQL: SELECT * FROM `ms_app` WHERE ( `pid` = 1 )  [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.002930s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.010658s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.011148s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000354s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.000414s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000299s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 11 ) LIMIT 1   [ RunTime:0.013228s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 16 ) LIMIT 1   [ RunTime:0.014955s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 17 ) LIMIT 1   [ RunTime:0.000838s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000725s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000671s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000649s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000647s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.001049s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000752s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000279s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000584s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.063556s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002208s ]
+
+[ 2016-11-13T14:23:27+08:00 ] ::1 /ms/index.php?s=/Admin/Live/retrieve.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006457s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveClassController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveClassController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.002837s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000576s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Live/retrieve%' ) LIMIT 1   [ RunTime:0.000531s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.002862s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=131 ) LIMIT 1   [ RunTime:0.000386s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 131 )  [ RunTime:0.000364s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 131 ) AND ( `hide` = 0 )  [ RunTime:0.000382s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '' ) AND ( `pid` = 131 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000339s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 5 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.088487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003280s ]
+
+[ 2016-11-13T14:33:03+08:00 ] ::1 /ms/index.php?s=/Admin/VideoCategory/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.009930s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.004380s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000522s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%VideoCategory/index%' ) LIMIT 1   [ RunTime:0.000360s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.002795s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=126 ) LIMIT 1   [ RunTime:0.000294s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 126 )  [ RunTime:0.000338s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 126 ) AND ( `hide` = 0 )  [ RunTime:0.000316s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '视频' ) AND ( `pid` = 126 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000568s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '图片' ) AND ( `pid` = 126 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `ms_video_category` [ RunTime:0.002935s ]
+SQL: SELECT `id`,`title`,`pid`,`sort` FROM `ms_video_category` WHERE ( `pid` = 0 ) AND ( `title` LIKE '%%' ) ORDER BY sort asc,id asc  [ RunTime:0.000435s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000239s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000458s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037060s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002931s ]
+
+[ 2016-11-13T14:33:06+08:00 ] ::1 /ms/index.php?s=/Admin/App/app_index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005985s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001799s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.005642s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000825s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%App/app_index%' ) LIMIT 1   [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.004298s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=123 ) LIMIT 1   [ RunTime:0.000373s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 123 )  [ RunTime:0.000370s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 123 ) AND ( `hide` = 0 )  [ RunTime:0.000308s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '排版' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000398s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `ms_app` [ RunTime:0.003443s ]
+SQL: SELECT * FROM `ms_app` WHERE ( `pid` = 1 )  [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.003292s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000391s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000264s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000254s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.000274s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000260s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 11 ) LIMIT 1   [ RunTime:0.000475s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 16 ) LIMIT 1   [ RunTime:0.000278s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 17 ) LIMIT 1   [ RunTime:0.000262s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000274s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000249s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000335s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000298s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000268s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000352s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000767s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.029369s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001091s ]
+
+[ 2016-11-13T14:33:08+08:00 ] ::1 /ms/index.php?s=/Admin/VideoCategory/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004715s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002215s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.005500s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000761s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%VideoCategory/index%' ) LIMIT 1   [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003750s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=126 ) LIMIT 1   [ RunTime:0.000540s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 126 )  [ RunTime:0.000511s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 126 ) AND ( `hide` = 0 )  [ RunTime:0.000422s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '视频' ) AND ( `pid` = 126 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000513s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '图片' ) AND ( `pid` = 126 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `ms_video_category` [ RunTime:0.003639s ]
+SQL: SELECT `id`,`title`,`pid`,`sort` FROM `ms_video_category` WHERE ( `pid` = 0 ) AND ( `title` LIKE '%%' ) ORDER BY sort asc,id asc  [ RunTime:0.000687s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000448s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.035807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001447s ]
+
+[ 2016-11-13T14:33:09+08:00 ] ::1 /ms/index.php?s=/Admin/Video/video_pic.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002652s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+NOTIC: [2048] Declaration of Admin\Controller\VideoController::resume() should be compatible with Admin\Controller\AdminController::resume($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\VideoController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003158s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000490s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Video/video_pic%' ) LIMIT 1   [ RunTime:0.000438s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003465s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=130 ) LIMIT 1   [ RunTime:0.000387s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=126 ) LIMIT 1   [ RunTime:0.000367s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 126 )  [ RunTime:0.000462s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 126 ) AND ( `hide` = 0 )  [ RunTime:0.000507s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '视频' ) AND ( `pid` = 126 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000556s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '图片' ) AND ( `pid` = 126 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `ms_video_pic` [ RunTime:0.025174s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000484s ]
+SQL: SELECT * FROM `ms_video_pic` ORDER BY id desc  [ RunTime:0.000582s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_video_pic` LIMIT 1   [ RunTime:0.000506s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000442s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.047438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000548s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001935s ]
+
+[ 2016-11-13T14:33:10+08:00 ] ::1 /ms/index.php?s=/Admin/License/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004704s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003757s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000743s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%License/index%' ) LIMIT 1   [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003786s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=122 ) LIMIT 1   [ RunTime:0.000410s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 122 )  [ RunTime:0.000364s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 122 ) AND ( `hide` = 0 )  [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `ms_license` [ RunTime:0.026745s ]
+SQL: SELECT * FROM `ms_license`  [ RunTime:0.000499s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000280s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000635s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.035730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035974s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001146s ]
+
+[ 2016-11-13T14:33:11+08:00 ] ::1 /ms/index.php?s=/Admin/Addons/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004335s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+SQL: SHOW COLUMNS FROM `ms_addons` [ RunTime:0.004360s ]
+SQL: SELECT `title`,`name` FROM `ms_addons` WHERE ( status=1 AND has_adminlist=1 )  [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.004196s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000783s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Addons/index%' ) LIMIT 1   [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.005595s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=43 ) LIMIT 1   [ RunTime:0.000557s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 43 )  [ RunTime:0.000554s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 43 ) AND ( `hide` = 0 )  [ RunTime:0.000453s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '扩展' ) AND ( `pid` = 43 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000510s ]
+SQL: SELECT `id`,`name`,`title`,`description`,`status`,`config`,`author`,`version`,`create_time`,`has_adminlist` FROM `ms_addons` WHERE ( `name` IN ('Attachment','DevTeam','Editor','EditorForAdmin','SiteStat','SocialComment','SystemInfo') )  [ RunTime:0.009832s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `ms_addons` [ RunTime:0.003070s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'Attachment' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000355s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SocialComment' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000454s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'Editor' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000475s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SystemInfo' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000454s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SiteStat' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000342s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'DevTeam' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000328s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'EditorForAdmin' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000481s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.132708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.132978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000634s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001552s ]
+
+[ 2016-11-13T14:33:12+08:00 ] ::1 /ms/index.php?s=/Admin/Config/group.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002571s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003819s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000778s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Config/group%' ) LIMIT 1   [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.004471s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=68 ) LIMIT 1   [ RunTime:0.000509s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 68 )  [ RunTime:0.000515s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 68 ) AND ( `hide` = 0 )  [ RunTime:0.000457s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '系统设置' ) AND ( `pid` = 68 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000548s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '' ) AND ( `pid` = 68 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000488s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '数据备份' ) AND ( `pid` = 68 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000617s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.054104s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `ms_config` WHERE ( `status` = 1 ) AND ( `group` = 1 ) ORDER BY sort  [ RunTime:0.001495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000346s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000681s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.078819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001636s ]
+
+[ 2016-11-13T14:33:13+08:00 ] ::1 /ms/index.php?s=/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005293s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003733s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000643s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%User/index%' ) LIMIT 1   [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.003458s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=16 ) LIMIT 1   [ RunTime:0.000406s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 16 )  [ RunTime:0.000447s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 16 ) AND ( `hide` = 0 )  [ RunTime:0.000371s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '用户管理' ) AND ( `pid` = 16 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000428s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '行为管理' ) AND ( `pid` = 16 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000422s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '' ) AND ( `pid` = 16 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.003524s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_member` WHERE ( `status` >= 0 ) AND ( `nickname` LIKE '%%' ) LIMIT 1   [ RunTime:0.000573s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade`,`head_pic` FROM `ms_member` WHERE ( `status` >= 0 ) AND ( `nickname` LIKE '%%' ) ORDER BY uid desc LIMIT 0,10   [ RunTime:0.000573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000275s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000528s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.058587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001102s ]
+
+[ 2016-11-13T14:33:14+08:00 ] ::1 /ms/index.php?s=/Admin/Article/mydocument.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.001992s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.004567s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000886s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Article/mydocument%' ) LIMIT 1   [ RunTime:0.000505s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.004533s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=2 ) LIMIT 1   [ RunTime:0.000576s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 2 )  [ RunTime:0.000540s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 2 ) AND ( `hide` = 0 )  [ RunTime:0.000566s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '内容' ) AND ( `pid` = 2 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000684s ]
+SQL: SHOW COLUMNS FROM `ms_auth_group_access` [ RunTime:0.018540s ]
+SQL: SELECT `extend_id` FROM ms_auth_group_access g INNER JOIN ms_auth_extend c on g.group_id=c.group_id  WHERE ( g.uid='1' and c.type='1' and !isnull(extend_id) )  [ RunTime:0.016400s ]
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.003257s ]
+SQL: SELECT `id`,`title`,`pid`,`allow_publish` FROM `ms_category` WHERE ( `status` = 1 ) ORDER BY pid,sort  [ RunTime:0.000442s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.003595s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` WHERE ( `status` IN ('0','1','2') ) AND ( `uid` = 1 ) AND ( `pid` = 0 ) LIMIT 1   [ RunTime:0.010440s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `status` IN ('0','1','2') ) AND ( `uid` = 1 ) AND ( `pid` = 0 ) ORDER BY update_time desc LIMIT 0,10   [ RunTime:0.001908s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000331s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000555s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.003238s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` WHERE ( pid=11 ) LIMIT 1   [ RunTime:0.000286s ]
+SQL: SELECT `title` FROM `ms_category` WHERE ( id=2 ) LIMIT 1   [ RunTime:0.000362s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` WHERE ( pid=16 ) LIMIT 1   [ RunTime:0.000350s ]
+SQL: SELECT `title` FROM `ms_category` WHERE ( id=42 ) LIMIT 1   [ RunTime:0.000235s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` WHERE ( pid=2 ) LIMIT 1   [ RunTime:0.000208s ]
+SQL: SELECT `title` FROM `ms_category` WHERE ( id=2 ) LIMIT 1   [ RunTime:0.000210s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` WHERE ( pid=9 ) LIMIT 1   [ RunTime:0.000214s ]
+SQL: SELECT `title` FROM `ms_category` WHERE ( id=42 ) LIMIT 1   [ RunTime:0.000211s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` WHERE ( pid=1 ) LIMIT 1   [ RunTime:0.000202s ]
+SQL: SELECT `title` FROM `ms_category` WHERE ( id=2 ) LIMIT 1   [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.120040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.120270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001184s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001534s ]
+

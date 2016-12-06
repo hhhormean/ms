@@ -1,0 +1,35 @@
+<extend name="Public/base"/>
+
+<block name="body">
+    <!-- 主体 -->
+    <div class="main-title">
+        <h2>APP首页-推荐</h2>
+    </div>
+
+    <foreach name="data" item="vo" >
+        {$vo.id} -
+        <switch name = 'vo.type' >
+            <case value="carousel">
+                轮播 -
+            </case>
+            <case value="video">
+                精品视频 -
+            </case>
+            <case value="big_news">
+            大学习头条 -
+            </case>
+            <case value="news">
+            小学习头条 -
+            </case>
+            <default />
+            未知分类
+        </switch>
+        {$vo.title} -
+        {$vo.cover} -
+        {$vo.view_num} -
+        {$vo.des} -
+        {$vo.url}
+        <br/>
+    </foreach>
+</block>
+

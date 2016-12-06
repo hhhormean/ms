@@ -1,0 +1,210 @@
+[ 2016-07-26T17:52:06+08:00 ] ::1 /ms/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.084758s ]
+INFO: [ app_init ] --END-- [ RunTime:0.102672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.025586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025855s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.231960s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.053615s ]
+
+[ 2016-07-26T17:52:10+08:00 ] ::1 /ms/admin
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004508s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001998s ]
+
+[ 2016-07-26T17:52:11+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004544s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001813s ]
+
+[ 2016-07-26T17:52:11+08:00 ] ::1 /ms/index.php?s=/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.007386s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001711s ]
+
+[ 2016-07-26T17:52:16+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004563s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.098853s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001423s ]
+
+[ 2016-07-26T17:52:16+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004624s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+
+[ 2016-07-26T17:52:17+08:00 ] ::1 /ms/index.php?s=/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003195s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001366s ]
+
+[ 2016-07-26T17:52:24+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004618s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001441s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.010263s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000829s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1469526743,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.022817s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.039948s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade`,`head_pic` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000945s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.049367s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.001177s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.117460s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1469526743,'admin在2016-07-26 17:52登录了后台') [ RunTime:0.024595s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000823s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1469440343 ) LIMIT 1   [ RunTime:0.087955s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.008256s ]
+SQL: UPDATE `ms_member` SET `score`=score+10 WHERE ( uid=1 AND status>-1 ) [ RunTime:0.015670s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1469526743,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000862s ]
+
+[ 2016-07-26T17:52:25+08:00 ] ::1 /ms/index.php?s=/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004658s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+
+[ 2016-07-26T17:52:27+08:00 ] ::1 /ms/index.php?s=/Admin/Config/group.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005628s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+
+[ 2016-07-26T17:52:33+08:00 ] ::1 /ms/index.php?s=/Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+
+[ 2016-07-26T17:52:35+08:00 ] ::1 /ms/index.php?s=/Admin/Article/mydocument.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005304s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001458s ]
+
+[ 2016-07-26T17:52:41+08:00 ] ::1 /ms/index.php?s=/Admin/License/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005755s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001780s ]
+
+[ 2016-07-26T17:52:42+08:00 ] ::1 /ms/index.php?s=/Admin/App/app_index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004507s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001462s ]
+
+[ 2016-07-26T17:52:43+08:00 ] ::1 /ms/index.php?s=/Admin/VideoCategory/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004543s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001490s ]
+
+[ 2016-07-26T17:52:44+08:00 ] ::1 /ms/index.php?s=/Admin/App/app_index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004414s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+
+[ 2016-07-26T17:52:52+08:00 ] ::1 /ms/index.php?s=/Admin/VideoCategory/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004772s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005867s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001493s ]
+
+[ 2016-07-26T17:52:53+08:00 ] ::1 /ms/index.php?s=/Admin/Video/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001755s ]
+
+[ 2016-07-26T17:52:54+08:00 ] ::1 /ms/index.php?s=/Admin/VideoCategory/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004796s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+
+[ 2016-07-26T17:52:56+08:00 ] ::1 /ms/index.php?s=/Admin/Video/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004696s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005691s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001467s ]
+
+[ 2016-07-26T17:52:58+08:00 ] ::1 /ms/index.php?s=/Admin/VideoCategory/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004611s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001428s ]
+
+[ 2016-07-26T17:53:03+08:00 ] ::1 /ms/index.php?s=/Admin/Video/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+
+[ 2016-07-26T17:53:08+08:00 ] ::1 /ms/index.php?s=/Admin/Video/index/pid/1.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004494s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001717s ]
+

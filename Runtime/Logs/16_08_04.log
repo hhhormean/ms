@@ -1,0 +1,26 @@
+[ 2016-08-04T11:33:45+08:00 ] ::1 /ms/index.php?s=/Home/User/
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.074456s ]
+INFO: [ app_init ] --END-- [ RunTime:0.089460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.014459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015069s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.052566s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.040805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.041327s ]
+
+[ 2016-08-04T11:33:51+08:00 ] ::1 /ms/index.php
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005921s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001453s ]
+SQL: SHOW COLUMNS FROM `ms_config` [ RunTime:0.007519s ]
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002196s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002678s ]
+

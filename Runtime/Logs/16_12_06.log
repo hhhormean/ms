@@ -1,0 +1,218 @@
+[ 2016-12-06T10:06:49+08:00 ] ::1 /ms/index.php?s=/Admin
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.074675s ]
+INFO: [ app_init ] --END-- [ RunTime:0.089586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.030977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031479s ]
+
+[ 2016-12-06T10:06:50+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003915s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000484s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.066578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.014217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014612s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.035919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036542s ]
+
+[ 2016-12-06T10:06:51+08:00 ] ::1 /ms/index.php?s=/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002451s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001261s ]
+
+[ 2016-12-06T10:07:01+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005730s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002337s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.155770s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.062258s ]
+
+[ 2016-12-06T10:07:02+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000344s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009443s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009651s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000867s ]
+
+[ 2016-12-06T10:07:03+08:00 ] ::1 /ms/index.php?s=/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.002607s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001210s ]
+
+[ 2016-12-06T10:07:09+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005840s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.017670s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000508s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1480990029,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.016417s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.036493s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade`,`head_pic` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.011671s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.042664s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.001566s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.170330s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1480990029,'admin在2016-12-06 10:07登录了后台') [ RunTime:0.001085s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.001057s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1480903629 ) LIMIT 1   [ RunTime:0.018199s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.023048s ]
+SQL: UPDATE `ms_member` SET `score`=score+10 WHERE ( uid=1 AND status>-1 ) [ RunTime:0.018463s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1480990029,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000864s ]
+
+[ 2016-12-06T10:07:11+08:00 ] ::1 /ms/index.php?s=/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.005658s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.042379s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.024534s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Index/index%' ) LIMIT 1   [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.004110s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.000489s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 1 )  [ RunTime:0.000763s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 1 ) AND ( `hide` = 0 )  [ RunTime:0.000403s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000435s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000922s ]
+INFO: [ AdminIndex ] --START--
+SQL: SHOW COLUMNS FROM `ms_addons` [ RunTime:0.045520s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SiteStat' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.001158s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.006632s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_member` LIMIT 1   [ RunTime:0.000716s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.006497s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` LIMIT 1   [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.027961s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` LIMIT 1   [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.035727s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_category` LIMIT 1   [ RunTime:0.000706s ]
+SQL: SHOW COLUMNS FROM `ms_model` [ RunTime:0.035028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_model` LIMIT 1   [ RunTime:0.000686s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000236s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.256040s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.032755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001292s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001774s ]
+INFO: Run SiteStat [ RunTime:0.240480s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SystemInfo' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.001004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000251s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.549650s ]
+SQL: select version() as v; [ RunTime:0.017272s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.055638s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.260859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.315210s ]
+INFO: Run SystemInfo [ RunTime:0.315461s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'DevTeam' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.001042s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000314s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.613592s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016921s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.335510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.351160s ]
+INFO: Run DevTeam [ RunTime:0.035695s ]
+INFO: [ AdminIndex ] --END-- [ RunTime:0.592677s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019004s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.335510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.353189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003754s ]
+
+[ 2016-12-06T10:07:15+08:00 ] ::1 /ms/index.php?s=/Admin/Live/retrieve.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003543s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+NOTIC: [2048] Declaration of Admin\Controller\LiveClassController::delete() should be compatible with Admin\Controller\AdminController::delete($model, $where = Array, $msg = Array) D:\xampp\htdocs\ms\Application\Admin\Controller\LiveClassController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.006149s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000899s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Live/retrieve%' ) LIMIT 1   [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.004197s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=131 ) LIMIT 1   [ RunTime:0.000546s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 131 )  [ RunTime:0.000599s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 131 ) AND ( `hide` = 0 )  [ RunTime:0.000525s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '' ) AND ( `pid` = 131 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000969s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000535s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001077s ]
+NOTIC: [8] Undefined variable: meta_title D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 5 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Runtime\Cache\Admin\c632dad43b4c0a441ef4b77d3de9971d.php 第 124 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.102953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001693s ]
+

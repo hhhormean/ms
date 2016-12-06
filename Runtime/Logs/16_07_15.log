@@ -1,0 +1,2198 @@
+[ 2016-07-15T10:18:19+08:00 ] ::1 /ms/
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001420s ]
+
+[ 2016-07-15T10:18:39+08:00 ] ::1 /ms/Home/Index/demo
+ERR: 模板不存在:./Application/Home/View/default/Index/demo.html
+
+[ 2016-07-15T10:18:49+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.022650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022857s ]
+
+[ 2016-07-15T10:19:20+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001680s ]
+
+[ 2016-07-15T10:19:21+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001690s ]
+
+[ 2016-07-15T10:19:22+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001654s ]
+
+[ 2016-07-15T10:19:24+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001601s ]
+
+[ 2016-07-15T10:19:24+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001695s ]
+
+[ 2016-07-15T10:19:25+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001561s ]
+
+[ 2016-07-15T10:19:26+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001692s ]
+
+[ 2016-07-15T10:19:27+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001660s ]
+
+[ 2016-07-15T10:19:28+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001944s ]
+
+[ 2016-07-15T10:19:28+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2016-07-15T10:19:29+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001574s ]
+
+[ 2016-07-15T10:19:45+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002225s ]
+
+[ 2016-07-15T10:19:46+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002171s ]
+
+[ 2016-07-15T10:19:47+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001674s ]
+
+[ 2016-07-15T10:19:48+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001943s ]
+
+[ 2016-07-15T10:19:49+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001671s ]
+
+[ 2016-07-15T10:19:49+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001925s ]
+
+[ 2016-07-15T10:19:50+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001779s ]
+
+[ 2016-07-15T10:19:51+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001645s ]
+
+[ 2016-07-15T10:21:19+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002057s ]
+
+[ 2016-07-15T10:23:03+08:00 ] ::1 /ms/
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.001004s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.090641s ]
+SQL: SELECT * FROM `ms_member` WHERE ( `uid` = 0 ) LIMIT 1   [ RunTime:0.035116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001605s ]
+
+[ 2016-07-15T10:23:14+08:00 ] ::1 /ms/Home/Index/demo
+NOTIC: [8] Undefined index: port D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 99 行.
+NOTIC: [8] Undefined variable: post D:\xampp\htdocs\ms\Extension\smsapi.fun.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001779s ]
+
+[ 2016-07-15T10:23:17+08:00 ] ::1 /ms/
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000865s ]
+
+[ 2016-07-15T10:23:19+08:00 ] ::1 /ms/
+SQL: SELECT `type`,`name`,`value` FROM `ms_config` WHERE ( `status` = 1 )  [ RunTime:0.000912s ]
+
+[ 2016-07-15T11:41:23+08:00 ] ::1 /ms/index.php?s=/Home/Article/lists/category/blog.html
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.035255s ]
+SQL: SELECT `id`,`name`,`title`,`pid`,`sort`,`list_row`,`meta_title`,`keywords`,`description`,`template_index`,`template_lists`,`template_detail`,`template_edit`,`model`,`type`,`link_id`,`allow_publish`,`display`,`reply`,`check`,`reply_model`,`extend`,`create_time`,`update_time`,`status`,`icon` FROM `ms_category` WHERE ( `name` = 'blog' ) LIMIT 1   [ RunTime:0.029469s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.042545s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `status` = 1 ) AND ( `pid` = 0 ) AND ( `category_id` = 1 ) AND ( `create_time` < 1468554081 ) AND ( deadline = 0 OR deadline > 1468554081 ) ORDER BY `id` DESC LIMIT 0,10   [ RunTime:0.104227s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000229s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000365s ]
+SQL: SHOW COLUMNS FROM `ms_channel` [ RunTime:0.022829s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`sort`,`create_time`,`update_time`,`status`,`target` FROM `ms_channel` WHERE ( status=1 ) ORDER BY sort  [ RunTime:0.001319s ]
+SQL: SELECT `pid` FROM `ms_category` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000874s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`link_id` FROM `ms_category` WHERE ( `pid` = 0 ) AND ( `status` = 1 ) ORDER BY sort  [ RunTime:0.001158s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.071945s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.021524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021675s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ms_document` WHERE ( `status` = 1 ) AND ( `pid` = 0 ) AND ( `category_id` = 1 ) AND ( `create_time` < 1468554081 ) AND ( deadline = 0 OR deadline > 1468554081 ) LIMIT 1   [ RunTime:0.066515s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.120406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.080900s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001875s ]
+
+[ 2016-07-15T11:41:26+08:00 ] ::1 /ms/index.php?s=/Home/Article/lists/category/blog.html
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.031930s ]
+SQL: SELECT `id`,`name`,`title`,`pid`,`sort`,`list_row`,`meta_title`,`keywords`,`description`,`template_index`,`template_lists`,`template_detail`,`template_edit`,`model`,`type`,`link_id`,`allow_publish`,`display`,`reply`,`check`,`reply_model`,`extend`,`create_time`,`update_time`,`status`,`icon` FROM `ms_category` WHERE ( `name` = 'blog' ) LIMIT 1   [ RunTime:0.001397s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.008911s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `status` = 1 ) AND ( `pid` = 0 ) AND ( `category_id` = 1 ) AND ( `create_time` < 1468554085 ) AND ( deadline = 0 OR deadline > 1468554085 ) ORDER BY `id` DESC LIMIT 0,10   [ RunTime:0.001163s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000229s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+SQL: SHOW COLUMNS FROM `ms_channel` [ RunTime:0.010776s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`sort`,`create_time`,`update_time`,`status`,`target` FROM `ms_channel` WHERE ( status=1 ) ORDER BY sort  [ RunTime:0.001148s ]
+SQL: SELECT `pid` FROM `ms_category` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000939s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`link_id` FROM `ms_category` WHERE ( `pid` = 0 ) AND ( `status` = 1 ) ORDER BY sort  [ RunTime:0.000919s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.031355s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009562s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001353s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ms_document` WHERE ( `status` = 1 ) AND ( `pid` = 0 ) AND ( `category_id` = 1 ) AND ( `create_time` < 1468554085 ) AND ( deadline = 0 OR deadline > 1468554085 ) LIMIT 1   [ RunTime:0.000962s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009562s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003575s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001795s ]
+
+[ 2016-07-15T11:41:30+08:00 ] ::1 /ms/index.php?s=/Home/Article/lists/category/default_blog.html
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.007638s ]
+SQL: SELECT `id`,`name`,`title`,`pid`,`sort`,`list_row`,`meta_title`,`keywords`,`description`,`template_index`,`template_lists`,`template_detail`,`template_edit`,`model`,`type`,`link_id`,`allow_publish`,`display`,`reply`,`check`,`reply_model`,`extend`,`create_time`,`update_time`,`status`,`icon` FROM `ms_category` WHERE ( `name` = 'default_blog' ) LIMIT 1   [ RunTime:0.000965s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.008645s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `status` = 1 ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `create_time` < 1468554090 ) AND ( deadline = 0 OR deadline > 1468554090 ) ORDER BY `id` DESC LIMIT 0,10   [ RunTime:0.001276s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000375s ]
+SQL: SHOW COLUMNS FROM `ms_channel` [ RunTime:0.007938s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`sort`,`create_time`,`update_time`,`status`,`target` FROM `ms_channel` WHERE ( status=1 ) ORDER BY sort  [ RunTime:0.000866s ]
+SQL: SELECT `pid` FROM `ms_category` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000830s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`link_id` FROM `ms_category` WHERE ( `pid` = 1 ) AND ( `status` = 1 ) ORDER BY sort  [ RunTime:0.001061s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.025625s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001336s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ms_document` WHERE ( `status` = 1 ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `create_time` < 1468554090 ) AND ( deadline = 0 OR deadline > 1468554090 ) LIMIT 1   [ RunTime:0.001003s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.030264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000051s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.020608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001893s ]
+
+[ 2016-07-15T11:41:33+08:00 ] ::1 /ms/index.php?s=/Home/Article/detail/id/15.html
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.007618s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `ms_document_article` [ RunTime:0.053629s ]
+SQL: SELECT `id`,`parse`,`content`,`template`,`bookmark` FROM `ms_document_article` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000808s ]
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.007738s ]
+SQL: SELECT `id`,`name`,`title`,`pid`,`sort`,`list_row`,`meta_title`,`keywords`,`description`,`template_index`,`template_lists`,`template_detail`,`template_edit`,`model`,`type`,`link_id`,`allow_publish`,`display`,`reply`,`check`,`reply_model`,`extend`,`create_time`,`update_time`,`status`,`icon` FROM `ms_category` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.001002s ]
+SQL: UPDATE `ms_document` SET `view`=view+1 WHERE ( `id` = 15 ) [ RunTime:0.053694s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000343s ]
+SQL: SHOW COLUMNS FROM `ms_channel` [ RunTime:0.007335s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`sort`,`create_time`,`update_time`,`status`,`target` FROM `ms_channel` WHERE ( status=1 ) ORDER BY sort  [ RunTime:0.000870s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` < '15' ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `status` = 1 ) ORDER BY id DESC LIMIT 1   [ RunTime:0.021831s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` > '15' ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `status` = 1 ) ORDER BY id LIMIT 1   [ RunTime:0.000958s ]
+INFO: [ documentDetailAfter ] --START--
+SQL: SHOW COLUMNS FROM `ms_attachment` [ RunTime:0.045810s ]
+SQL: SELECT `id`,`uid`,`title`,`type`,`source`,`record_id`,`download`,`size`,`dir`,`sort`,`create_time`,`update_time`,`status` FROM `ms_attachment` WHERE ( `record_id` = 15 ) AND ( `status` = 1 )  [ RunTime:0.000772s ]
+INFO: Run Attachment [ RunTime:0.082418s ]
+INFO: [ documentDetailAfter ] --END-- [ RunTime:0.082542s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.168885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.168999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001341s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001564s ]
+
+[ 2016-07-15T11:42:00+08:00 ] ::1 /ms/index.php?s=/Home/Article/detail/id/15.html
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.007573s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `ms_document_article` [ RunTime:0.007117s ]
+SQL: SELECT `id`,`parse`,`content`,`template`,`bookmark` FROM `ms_document_article` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000796s ]
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.008914s ]
+SQL: SELECT `id`,`name`,`title`,`pid`,`sort`,`list_row`,`meta_title`,`keywords`,`description`,`template_index`,`template_lists`,`template_detail`,`template_edit`,`model`,`type`,`link_id`,`allow_publish`,`display`,`reply`,`check`,`reply_model`,`extend`,`create_time`,`update_time`,`status`,`icon` FROM `ms_category` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000920s ]
+SQL: UPDATE `ms_document` SET `view`=view+1 WHERE ( `id` = 15 ) [ RunTime:0.000704s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `ms_channel` [ RunTime:0.007807s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`sort`,`create_time`,`update_time`,`status`,`target` FROM `ms_channel` WHERE ( status=1 ) ORDER BY sort  [ RunTime:0.000893s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` < '15' ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `status` = 1 ) ORDER BY id DESC LIMIT 1   [ RunTime:0.001235s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` > '15' ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `status` = 1 ) ORDER BY id LIMIT 1   [ RunTime:0.001050s ]
+INFO: [ documentDetailAfter ] --START--
+SQL: SHOW COLUMNS FROM `ms_attachment` [ RunTime:0.007545s ]
+SQL: SELECT `id`,`uid`,`title`,`type`,`source`,`record_id`,`download`,`size`,`dir`,`sort`,`create_time`,`update_time`,`status` FROM `ms_attachment` WHERE ( `record_id` = 15 ) AND ( `status` = 1 )  [ RunTime:0.000742s ]
+INFO: Run Attachment [ RunTime:0.016155s ]
+INFO: [ documentDetailAfter ] --END-- [ RunTime:0.016262s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.064726s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001316s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001964s ]
+
+[ 2016-07-15T11:42:44+08:00 ] ::1 /ms/index.php?s=/Home/Article/detail/id/15.html
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.007937s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000940s ]
+SQL: SHOW COLUMNS FROM `ms_document_article` [ RunTime:0.007145s ]
+SQL: SELECT `id`,`parse`,`content`,`template`,`bookmark` FROM `ms_document_article` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000788s ]
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.008679s ]
+SQL: SELECT `id`,`name`,`title`,`pid`,`sort`,`list_row`,`meta_title`,`keywords`,`description`,`template_index`,`template_lists`,`template_detail`,`template_edit`,`model`,`type`,`link_id`,`allow_publish`,`display`,`reply`,`check`,`reply_model`,`extend`,`create_time`,`update_time`,`status`,`icon` FROM `ms_category` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000948s ]
+SQL: UPDATE `ms_document` SET `view`=view+1 WHERE ( `id` = 15 ) [ RunTime:0.000704s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000344s ]
+SQL: SHOW COLUMNS FROM `ms_channel` [ RunTime:0.008256s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`sort`,`create_time`,`update_time`,`status`,`target` FROM `ms_channel` WHERE ( status=1 ) ORDER BY sort  [ RunTime:0.000952s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` < '15' ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `status` = 1 ) ORDER BY id DESC LIMIT 1   [ RunTime:0.001047s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` > '15' ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `status` = 1 ) ORDER BY id LIMIT 1   [ RunTime:0.000913s ]
+INFO: [ documentDetailAfter ] --START--
+SQL: SHOW COLUMNS FROM `ms_attachment` [ RunTime:0.007275s ]
+SQL: SELECT `id`,`uid`,`title`,`type`,`source`,`record_id`,`download`,`size`,`dir`,`sort`,`create_time`,`update_time`,`status` FROM `ms_attachment` WHERE ( `record_id` = 15 ) AND ( `status` = 1 )  [ RunTime:0.000765s ]
+INFO: Run Attachment [ RunTime:0.017325s ]
+INFO: [ documentDetailAfter ] --END-- [ RunTime:0.017435s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.067195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002055s ]
+
+[ 2016-07-15T11:42:53+08:00 ] ::1 /ms/index.php?s=/Home/Article/detail/id/15.html
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.008186s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `ms_document_article` [ RunTime:0.008646s ]
+SQL: SELECT `id`,`parse`,`content`,`template`,`bookmark` FROM `ms_document_article` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000839s ]
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.009717s ]
+SQL: SELECT `id`,`name`,`title`,`pid`,`sort`,`list_row`,`meta_title`,`keywords`,`description`,`template_index`,`template_lists`,`template_detail`,`template_edit`,`model`,`type`,`link_id`,`allow_publish`,`display`,`reply`,`check`,`reply_model`,`extend`,`create_time`,`update_time`,`status`,`icon` FROM `ms_category` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.001162s ]
+SQL: UPDATE `ms_document` SET `view`=view+1 WHERE ( `id` = 15 ) [ RunTime:0.000752s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000210s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+SQL: SHOW COLUMNS FROM `ms_channel` [ RunTime:0.009439s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`sort`,`create_time`,`update_time`,`status`,`target` FROM `ms_channel` WHERE ( status=1 ) ORDER BY sort  [ RunTime:0.000930s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` < '15' ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `status` = 1 ) ORDER BY id DESC LIMIT 1   [ RunTime:0.001063s ]
+SQL: SELECT `id`,`uid`,`name`,`title`,`category_id`,`description`,`root`,`pid`,`model_id`,`type`,`position`,`link_id`,`cover_id`,`display`,`deadline`,`attach`,`view`,`comment`,`extend`,`level`,`create_time`,`update_time`,`status` FROM `ms_document` WHERE ( `id` > '15' ) AND ( `pid` = 0 ) AND ( `category_id` = 2 ) AND ( `status` = 1 ) ORDER BY id LIMIT 1   [ RunTime:0.001113s ]
+INFO: [ documentDetailAfter ] --START--
+SQL: SHOW COLUMNS FROM `ms_attachment` [ RunTime:0.008799s ]
+SQL: SELECT `id`,`uid`,`title`,`type`,`source`,`record_id`,`download`,`size`,`dir`,`sort`,`create_time`,`update_time`,`status` FROM `ms_attachment` WHERE ( `record_id` = 15 ) AND ( `status` = 1 )  [ RunTime:0.000953s ]
+INFO: Run Attachment [ RunTime:0.020394s ]
+INFO: [ documentDetailAfter ] --END-- [ RunTime:0.020513s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.074250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001635s ]
+
+[ 2016-07-15T13:42:33+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007091s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000923s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+
+[ 2016-07-15T13:45:08+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007507s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000806s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 962 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001885s ]
+
+[ 2016-07-15T13:45:56+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007560s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000885s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 962 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001593s ]
+
+[ 2016-07-15T13:49:44+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008059s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000852s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 962 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001815s ]
+
+[ 2016-07-15T13:49:45+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007005s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000937s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 962 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001832s ]
+
+[ 2016-07-15T13:49:46+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007057s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000848s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 962 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001774s ]
+
+[ 2016-07-15T13:49:47+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007311s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001035s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 962 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001708s ]
+
+[ 2016-07-15T13:49:47+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007024s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000850s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 962 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001604s ]
+
+[ 2016-07-15T13:49:48+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007190s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000825s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 962 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001589s ]
+
+[ 2016-07-15T13:49:49+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008207s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000789s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 959 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 962 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001587s ]
+
+[ 2016-07-15T13:52:59+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007188s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000792s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 964 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 966 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 967 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002196s ]
+
+[ 2016-07-15T13:53:00+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008450s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000826s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 964 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 966 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 967 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001936s ]
+
+[ 2016-07-15T13:53:01+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007202s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000830s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 964 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 966 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 967 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001658s ]
+
+[ 2016-07-15T13:57:36+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007490s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000892s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 964 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 966 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 967 行.
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='f6a99473f342bdb5f09ff9577aa8a1f4',`refresh_token`='f3239fad415136e40c6b56f6628a05b3' WHERE ( `username` = 'admin' ) [ RunTime:0.001107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001836s ]
+
+[ 2016-07-15T13:58:17+08:00 ] ::1 /ms/index.php
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007232s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000884s ]
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 963 行.
+NOTIC: [8] Undefined index: uid D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 964 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 966 行.
+NOTIC: [8] Use of undefined constant UC_AUTH_KEY - assumed 'UC_AUTH_KEY' D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 967 行.
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='035810688272c38bfde80a06ca35995f',`refresh_token`='6c13c104948cbd45f51774a149304170' WHERE ( `username` = 'admin' ) [ RunTime:0.000745s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001616s ]
+
+[ 2016-07-15T14:01:41+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003320s ]
+
+[ 2016-07-15T14:11:24+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+ERR: Think\Controller:M方法不存在！
+
+[ 2016-07-15T14:11:31+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007560s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) LIMIT 1   [ RunTime:0.001011s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\ms\Application\Home\Controller\IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001917s ]
+
+[ 2016-07-15T14:11:40+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007451s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) LIMIT 1   [ RunTime:0.000964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001843s ]
+
+[ 2016-07-15T14:11:45+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007693s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) LIMIT 1   [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001591s ]
+
+[ 2016-07-15T14:11:46+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008589s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) LIMIT 1   [ RunTime:0.000798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001404s ]
+
+[ 2016-07-15T14:11:47+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007851s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) LIMIT 1   [ RunTime:0.000920s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001593s ]
+
+[ 2016-07-15T14:11:51+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008263s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) LIMIT 1   [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001676s ]
+
+[ 2016-07-15T14:13:45+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007327s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001882s ]
+
+[ 2016-07-15T14:13:46+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008066s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000876s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001557s ]
+
+[ 2016-07-15T14:13:49+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007120s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin123' ) LIMIT 1   [ RunTime:0.000792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001604s ]
+
+[ 2016-07-15T14:13:56+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007173s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin1' ) LIMIT 1   [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002049s ]
+
+[ 2016-07-15T14:13:59+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008258s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001889s ]
+
+[ 2016-07-15T14:14:17+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007248s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' )  [ RunTime:0.000852s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001893s ]
+
+[ 2016-07-15T14:14:21+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007267s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin1' )  [ RunTime:0.000784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001638s ]
+
+[ 2016-07-15T14:14:27+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008440s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' )  [ RunTime:0.000870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001592s ]
+
+[ 2016-07-15T14:14:28+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008441s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' )  [ RunTime:0.000846s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001550s ]
+
+[ 2016-07-15T14:14:32+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007934s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' )  [ RunTime:0.000870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001584s ]
+
+[ 2016-07-15T14:14:33+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008575s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' )  [ RunTime:0.000832s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001488s ]
+
+[ 2016-07-15T14:14:34+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009413s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' )  [ RunTime:0.000999s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001661s ]
+
+[ 2016-07-15T14:14:44+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008079s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' )  [ RunTime:0.000812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001685s ]
+
+[ 2016-07-15T14:14:56+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007673s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' )  [ RunTime:0.000928s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001679s ]
+
+[ 2016-07-15T14:15:15+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007783s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f11221' ) AND ( `username` = 'admin' )  [ RunTime:0.000882s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001556s ]
+
+[ 2016-07-15T14:15:16+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007246s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f11221' ) AND ( `username` = 'admin' )  [ RunTime:0.000956s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001649s ]
+
+[ 2016-07-15T14:15:29+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008993s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' )  [ RunTime:0.000891s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001583s ]
+
+[ 2016-07-15T14:15:39+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008797s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f1' ) AND ( `username` = 'admin' )  [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001575s ]
+
+[ 2016-07-15T14:15:43+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008560s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admiqn' )  [ RunTime:0.000767s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001475s ]
+
+[ 2016-07-15T14:15:46+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008769s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' )  [ RunTime:0.000967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001608s ]
+
+[ 2016-07-15T14:15:56+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007925s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' )  [ RunTime:0.000872s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001742s ]
+
+[ 2016-07-15T14:15:57+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008616s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' )  [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2016-07-15T14:17:42+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007575s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' )  [ RunTime:0.001017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002229s ]
+
+[ 2016-07-15T14:17:47+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007587s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f1' ) AND ( `username` = 'admin' )  [ RunTime:0.000857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001554s ]
+
+[ 2016-07-15T14:17:49+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007069s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f1' ) AND ( `username` = 'admin' )  [ RunTime:0.001025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001683s ]
+
+[ 2016-07-15T14:17:56+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008762s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f1' ) AND ( `username` = 'admin' )  [ RunTime:0.000791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001978s ]
+
+[ 2016-07-15T14:18:01+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_login
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007305s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' )  [ RunTime:0.000924s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002370s ]
+
+[ 2016-07-15T14:18:15+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_token
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009103s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' )  [ RunTime:0.000851s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002109s ]
+
+[ 2016-07-15T14:19:01+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_token
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007585s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' )  [ RunTime:0.000936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001579s ]
+
+[ 2016-07-15T14:19:14+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_token
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007381s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001547s ]
+
+[ 2016-07-15T14:23:41+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_token
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008344s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001770s ]
+
+[ 2016-07-15T15:28:19+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_token
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009280s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001909s ]
+
+[ 2016-07-15T16:51:25+08:00 ] ::1 /ms/index.php?s=/Home/Index/index
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003022s ]
+
+[ 2016-07-15T16:52:43+08:00 ] ::1 /ms/index.php?s=/Home/Index/index
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002910s ]
+
+[ 2016-07-15T16:53:32+08:00 ] ::1 /ms/index.php?s=/Home/Index/index
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002958s ]
+
+[ 2016-07-15T16:54:43+08:00 ] ::1 /ms/index.php?s=/Home/Index/index
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002715s ]
+
+[ 2016-07-15T17:28:18+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003558s ]
+
+[ 2016-07-15T17:28:36+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005299s ]
+
+[ 2016-07-15T17:28:52+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003082s ]
+
+[ 2016-07-15T17:29:58+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002719s ]
+
+[ 2016-07-15T17:30:00+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002622s ]
+
+[ 2016-07-15T17:30:02+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002660s ]
+
+[ 2016-07-15T17:33:31+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003480s ]
+
+[ 2016-07-15T17:36:57+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002975s ]
+
+[ 2016-07-15T17:37:11+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003729s ]
+
+[ 2016-07-15T17:37:30+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002760s ]
+
+[ 2016-07-15T17:37:46+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002600s ]
+
+[ 2016-07-15T17:42:09+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002905s ]
+
+[ 2016-07-15T17:42:11+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003160s ]
+
+[ 2016-07-15T17:42:13+08:00 ] ::1 /ms/index.php?s=/Home/Index/index
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002801s ]
+
+[ 2016-07-15T17:42:29+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002940s ]
+
+[ 2016-07-15T17:43:18+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002544s ]
+
+[ 2016-07-15T17:43:54+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002683s ]
+
+[ 2016-07-15T17:44:58+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003067s ]
+
+[ 2016-07-15T17:44:59+08:00 ] ::1 /ms/index.php?s=/Home/Index/index
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002625s ]
+
+[ 2016-07-15T17:45:00+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_token
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007630s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001548s ]
+
+[ 2016-07-15T17:45:02+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002672s ]
+
+[ 2016-07-15T17:45:03+08:00 ] ::1 /ms/index.php
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002633s ]
+
+[ 2016-07-15T17:45:05+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002767s ]
+
+[ 2016-07-15T17:45:05+08:00 ] ::1 /ms/index.php?s=/Home/Index/check_token
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007414s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `access_token` = '035810688272c38bfde80a06ca35995f' ) AND ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002907s ]
+
+[ 2016-07-15T17:45:05+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003690s ]
+
+[ 2016-07-15T17:45:10+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002673s ]
+
+[ 2016-07-15T17:45:19+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002617s ]
+
+[ 2016-07-15T17:45:28+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002794s ]
+
+[ 2016-07-15T17:45:30+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002657s ]
+
+[ 2016-07-15T17:45:33+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002701s ]
+
+[ 2016-07-15T17:45:35+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002752s ]
+
+[ 2016-07-15T17:45:55+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002796s ]
+
+[ 2016-07-15T17:45:57+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2016-07-15T17:46:41+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003372s ]
+
+[ 2016-07-15T17:46:42+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003303s ]
+
+[ 2016-07-15T17:47:23+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003325s ]
+
+[ 2016-07-15T17:47:44+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003231s ]
+
+[ 2016-07-15T17:47:51+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002765s ]
+
+[ 2016-07-15T17:49:13+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003460s ]
+
+[ 2016-07-15T17:49:17+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002642s ]
+
+[ 2016-07-15T17:49:31+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003419s ]
+
+[ 2016-07-15T17:49:35+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002850s ]
+
+[ 2016-07-15T17:50:03+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002765s ]
+
+[ 2016-07-15T17:50:07+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002672s ]
+
+[ 2016-07-15T17:50:09+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002596s ]
+
+[ 2016-07-15T17:50:38+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002850s ]
+
+[ 2016-07-15T17:50:49+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002605s ]
+
+[ 2016-07-15T17:51:28+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003628s ]
+
+[ 2016-07-15T17:51:30+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004321s ]
+
+[ 2016-07-15T17:51:34+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003240s ]
+
+[ 2016-07-15T17:51:36+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003147s ]
+
+[ 2016-07-15T17:51:45+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002683s ]
+
+[ 2016-07-15T17:51:46+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002266s ]
+
+[ 2016-07-15T17:52:31+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002773s ]
+
+[ 2016-07-15T17:52:44+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002920s ]
+
+[ 2016-07-15T17:52:46+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003347s ]
+
+[ 2016-07-15T17:53:01+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004165s ]
+
+[ 2016-07-15T17:53:28+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002737s ]
+
+[ 2016-07-15T17:53:31+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002742s ]
+
+[ 2016-07-15T17:53:57+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003280s ]
+
+[ 2016-07-15T17:53:59+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002943s ]
+
+[ 2016-07-15T17:54:02+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002207s ]
+
+[ 2016-07-15T17:54:34+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002602s ]
+
+[ 2016-07-15T17:54:36+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002416s ]
+
+[ 2016-07-15T17:54:40+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003790s ]
+
+[ 2016-07-15T17:54:54+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002603s ]
+
+[ 2016-07-15T17:55:37+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003895s ]
+
+[ 2016-07-15T17:55:41+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002762s ]
+
+[ 2016-07-15T17:56:01+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003556s ]
+
+[ 2016-07-15T17:56:34+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 209 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001690s ]
+
+[ 2016-07-15T17:56:38+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 209 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001981s ]
+
+[ 2016-07-15T17:56:42+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002652s ]
+
+[ 2016-07-15T17:56:44+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 209 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002201s ]
+
+[ 2016-07-15T17:56:55+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002712s ]
+
+[ 2016-07-15T17:57:05+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002646s ]
+
+[ 2016-07-15T17:57:15+08:00 ] ::1 /ms/
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002918s ]
+
+[ 2016-07-15T17:57:22+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002677s ]
+
+[ 2016-07-15T17:57:24+08:00 ] ::1 /ms/
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003358s ]
+
+[ 2016-07-15T17:57:27+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002937s ]
+
+[ 2016-07-15T17:57:32+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002557s ]
+
+[ 2016-07-15T17:57:45+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002668s ]
+
+[ 2016-07-15T17:57:58+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002567s ]
+
+[ 2016-07-15T17:58:00+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002545s ]
+
+[ 2016-07-15T17:58:07+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002816s ]
+
+[ 2016-07-15T18:01:26+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002827s ]
+
+[ 2016-07-15T18:01:42+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002679s ]
+
+[ 2016-07-15T18:01:55+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002611s ]
+
+[ 2016-07-15T18:03:16+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002993s ]
+
+[ 2016-07-15T18:03:19+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002942s ]
+
+[ 2016-07-15T18:04:03+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002920s ]
+
+[ 2016-07-15T18:04:07+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002857s ]
+
+[ 2016-07-15T18:04:18+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002356s ]
+
+[ 2016-07-15T18:04:22+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002787s ]
+
+[ 2016-07-15T18:07:39+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003108s ]
+
+[ 2016-07-15T18:07:43+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003535s ]
+
+[ 2016-07-15T18:08:09+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002772s ]
+
+[ 2016-07-15T18:08:12+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002375s ]
+
+[ 2016-07-15T18:08:13+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002156s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003698s ]
+
+[ 2016-07-15T18:08:33+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003446s ]
+
+[ 2016-07-15T18:08:49+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002984s ]
+
+[ 2016-07-15T18:08:56+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002898s ]
+
+[ 2016-07-15T18:09:00+08:00 ] ::1 /ms/index.php?s=/Home/Index/index.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002803s ]
+
+[ 2016-07-15T18:09:13+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002605s ]
+
+[ 2016-07-15T18:09:23+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage/id/3
+NOTIC: [2] strlen() expects parameter 1 to be string, array given D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 211 行.
+
+[ 2016-07-15T18:14:09+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage/phone/18826233252
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\ms\ThinkPHP\Common\functions.php 第 1092 行.
+
+[ 2016-07-15T18:14:17+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002900s ]
+
+[ 2016-07-15T18:14:40+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002448s ]
+
+[ 2016-07-15T18:15:50+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002888s ]
+
+[ 2016-07-15T18:16:02+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage/phone/18826233252
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\ms\ThinkPHP\Common\functions.php 第 1092 行.
+
+[ 2016-07-15T18:16:27+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003176s ]
+
+[ 2016-07-15T18:25:30+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage/phone/18826233252
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\ms\ThinkPHP\Common\functions.php 第 1092 行.
+
+[ 2016-07-15T18:54:43+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009504s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001139s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580083,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.001128s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.009729s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.001079s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580083,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.065446s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.026966s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.001286s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.079823s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580083,'admin在2016-07-15 18:54登录了后台') [ RunTime:0.025601s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000800s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468493683 ) LIMIT 1   [ RunTime:0.073952s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.008135s ]
+SQL: UPDATE `ms_member` SET `score`=score+10 WHERE ( uid=1 AND status>-1 ) [ RunTime:0.001218s ]
+
+[ 2016-07-15T18:56:24+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007220s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001062s ]
+
+[ 2016-07-15T18:56:30+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008040s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000938s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580189,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.008497s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000759s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580189,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.009627s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.006953s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580189,'admin在2016-07-15 18:56登录了后台') [ RunTime:0.017031s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000832s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468493789 ) LIMIT 1   [ RunTime:0.000924s ]
+
+[ 2016-07-15T18:56:32+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007729s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000926s ]
+
+[ 2016-07-15T18:56:40+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007238s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admi阿斯顿发射点' ) LIMIT 1   [ RunTime:0.000908s ]
+
+[ 2016-07-15T18:56:50+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007605s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000943s ]
+
+[ 2016-07-15T18:57:56+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007561s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001063s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580276,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007529s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000871s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580276,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.007755s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.007414s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580276,'admin在2016-07-15 18:57登录了后台') [ RunTime:0.000770s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000778s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468493876 ) LIMIT 1   [ RunTime:0.000933s ]
+
+[ 2016-07-15T18:59:39+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007548s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000938s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580379,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007901s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000816s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580379,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.007969s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.007173s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580379,'admin在2016-07-15 18:59登录了后台') [ RunTime:0.000698s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000788s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468493979 ) LIMIT 1   [ RunTime:0.001087s ]
+NOTIC: [2] Missing argument 1 for create_token(), called in D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php on line 72 and defined D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Undefined variable: username D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 961 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009862s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = null ) LIMIT 1   [ RunTime:0.000803s ]
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='f4fabc497c904002bf3a76f1bb11e3ab' WHERE ( `username` = null ) [ RunTime:0.000582s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 73 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001729s ]
+
+[ 2016-07-15T18:59:50+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008762s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000933s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580389,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.009323s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000865s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580389,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000713s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.007100s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.007641s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580389,'admin在2016-07-15 18:59登录了后台') [ RunTime:0.000717s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000783s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468493989 ) LIMIT 1   [ RunTime:0.000917s ]
+NOTIC: [2] Missing argument 1 for create_token(), called in D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php on line 72 and defined D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Undefined variable: username D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 961 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008893s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = null ) LIMIT 1   [ RunTime:0.000758s ]
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='58fc579b474ac6ad66117e0e2ca66b20' WHERE ( `username` = null ) [ RunTime:0.000533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001728s ]
+
+[ 2016-07-15T18:59:52+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.025382s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000935s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580392,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.009414s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000878s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580392,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.007275s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000939s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.007927s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580392,'admin在2016-07-15 18:59登录了后台') [ RunTime:0.000809s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000795s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468493992 ) LIMIT 1   [ RunTime:0.000931s ]
+NOTIC: [2] Missing argument 1 for create_token(), called in D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php on line 72 and defined D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Undefined variable: username D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 961 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009788s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = null ) LIMIT 1   [ RunTime:0.000659s ]
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='ee8b7145d40c7068a66e881573670d85' WHERE ( `username` = null ) [ RunTime:0.000431s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001599s ]
+
+[ 2016-07-15T19:02:35+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007957s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000960s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580555,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007603s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000858s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580555,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.008132s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000937s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.007617s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580555,'admin在2016-07-15 19:02登录了后台') [ RunTime:0.000717s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000777s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468494155 ) LIMIT 1   [ RunTime:0.000914s ]
+NOTIC: [2] Missing argument 1 for create_token(), called in D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php on line 72 and defined D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Undefined variable: username D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 961 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007339s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = null ) LIMIT 1   [ RunTime:0.000748s ]
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='8a70befd5a2ff712cbf742d11c661591' WHERE ( `username` = null ) [ RunTime:0.000546s ]
+
+[ 2016-07-15T19:03:07+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008091s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001242s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580587,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007339s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000856s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580587,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.008297s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.008009s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580587,'admin在2016-07-15 19:03登录了后台') [ RunTime:0.000787s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.001037s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468494187 ) LIMIT 1   [ RunTime:0.001014s ]
+NOTIC: [2] Missing argument 1 for create_token(), called in D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php on line 72 and defined D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Undefined variable: username D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 961 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007471s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = null ) LIMIT 1   [ RunTime:0.000815s ]
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='3bfed9d075f5b84e6b540c252d4e9553' WHERE ( `username` = null ) [ RunTime:0.000598s ]
+
+[ 2016-07-15T19:05:34+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008407s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000970s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580734,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.008051s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000892s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580734,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.008218s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.008486s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580734,'admin在2016-07-15 19:05登录了后台') [ RunTime:0.000757s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000791s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468494334 ) LIMIT 1   [ RunTime:0.001033s ]
+NOTIC: [2] Missing argument 1 for create_token(), called in D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php on line 72 and defined D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Undefined variable: username D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 961 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009944s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = null ) LIMIT 1   [ RunTime:0.000831s ]
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='e73ff073d98f5b18209d2e235712889c' WHERE ( `username` = null ) [ RunTime:0.000537s ]
+
+[ 2016-07-15T19:05:49+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008513s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000922s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468580749,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.008416s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000889s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468580749,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000732s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.009283s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000927s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.007663s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468580749,'admin在2016-07-15 19:05登录了后台') [ RunTime:0.000780s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000885s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468494349 ) LIMIT 1   [ RunTime:0.001166s ]
+NOTIC: [2] Missing argument 1 for create_token(), called in D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php on line 72 and defined D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 960 行.
+NOTIC: [8] Undefined variable: username D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 961 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007281s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = null ) LIMIT 1   [ RunTime:0.000755s ]
+SQL: UPDATE `ms_ucenter_member` SET `access_token`='54d3a2d8ed2257215051f3b6164bc7c8' WHERE ( `username` = null ) [ RunTime:0.000558s ]
+
+[ 2016-07-15T19:06:05+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008963s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000947s ]
+
+[ 2016-07-15T19:06:26+08:00 ] ::1 /ms/index.php?s=/home/user/login.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007205s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin12' ) LIMIT 1   [ RunTime:0.000853s ]
+
+[ 2016-07-15T19:35:45+08:00 ] ::1 /ms/index.php?phone=15622324796
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003340s ]
+
+[ 2016-07-15T19:37:20+08:00 ] ::1 /ms/index.php?s=/Home/User/sendMessage.html
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\ms\ThinkPHP\Common\functions.php 第 1092 行.
+
+[ 2016-07-15T19:43:06+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.085708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.011713s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011854s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001850s ]
+
+[ 2016-07-15T19:43:09+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017470s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001583s ]
+
+[ 2016-07-15T19:43:15+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002434s ]
+
+[ 2016-07-15T19:43:15+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000310s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017696s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001572s ]
+
+[ 2016-07-15T19:43:20+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002769s ]
+
+[ 2016-07-15T19:43:21+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000339s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002549s ]
+
+[ 2016-07-15T19:43:56+08:00 ] ::1 /ms/index.php?s=/Admin/Public/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002455s ]
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.042958s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001139s ]
+SQL: UPDATE `ms_ucenter_member` SET `last_login_time`=1468583036,`last_login_ip`=0 WHERE ( `id` = 1 ) [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.008418s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status`,`location`,`school`,`grade` FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `ms_action` [ RunTime:0.008172s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000816s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.007798s ]
+SQL: INSERT INTO `ms_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES (1,1,0,'member',1,1468583036,'admin在2016-07-15 19:43登录了后台') [ RunTime:0.001062s ]
+SQL: SELECT * FROM `ms_action` WHERE ( `name` = 'user_login' ) LIMIT 1   [ RunTime:0.000752s ]
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 666 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` WHERE ( `action_id` = 1 ) AND ( `user_id` = 1 ) AND ( `create_time` > 1468496636 ) LIMIT 1   [ RunTime:0.000881s ]
+SQL: UPDATE `ms_member` SET `login`=`login`+1,`last_login_time`=1468583036,`last_login_ip`=0 WHERE ( `uid` = 1 ) [ RunTime:0.000768s ]
+
+[ 2016-07-15T19:43:56+08:00 ] ::1 /ms/index.php?s=/Admin/Index/index.html
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.061349s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.010626s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%Index/index%' ) LIMIT 1   [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.009899s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.000815s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 1 )  [ RunTime:0.026371s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 1 ) AND ( `hide` = 0 )  [ RunTime:0.000764s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000508s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000708s ]
+INFO: [ AdminIndex ] --START--
+SQL: SHOW COLUMNS FROM `ms_addons` [ RunTime:0.034894s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SiteStat' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.001176s ]
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007190s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_member` LIMIT 1   [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `ms_action_log` [ RunTime:0.008238s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_action_log` LIMIT 1   [ RunTime:0.000616s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.007752s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_document` LIMIT 1   [ RunTime:0.000696s ]
+SQL: SHOW COLUMNS FROM `ms_category` [ RunTime:0.008479s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_category` LIMIT 1   [ RunTime:0.000653s ]
+SQL: SHOW COLUMNS FROM `ms_model` [ RunTime:0.024897s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ms_model` LIMIT 1   [ RunTime:0.000600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.142384s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001772s ]
+INFO: Run SiteStat [ RunTime:0.136697s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'SystemInfo' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000835s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.289706s ]
+SQL: select version() as v; [ RunTime:0.010083s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.028772s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.129195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.156336s ]
+INFO: Run SystemInfo [ RunTime:0.156328s ]
+SQL: SELECT `config` FROM `ms_addons` WHERE ( `name` = 'DevTeam' ) AND ( `status` = 1 ) LIMIT 1   [ RunTime:0.000893s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.333534s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013617s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.177325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.189301s ]
+INFO: Run DevTeam [ RunTime:0.032902s ]
+INFO: [ AdminIndex ] --END-- [ RunTime:0.326168s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014073s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.177325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000021s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.189712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001789s ]
+
+[ 2016-07-15T19:43:59+08:00 ] ::1 /ms/index.php?s=/Admin/License/index.html
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.008704s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.001292s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%License/index%' ) LIMIT 1   [ RunTime:0.001279s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.007804s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=122 ) LIMIT 1   [ RunTime:0.000806s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 122 )  [ RunTime:0.000869s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 122 ) AND ( `hide` = 0 )  [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `ms_license` [ RunTime:0.165327s ]
+SQL: SELECT * FROM `ms_license`  [ RunTime:0.013091s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000264s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000404s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.057805s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057950s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001730s ]
+
+[ 2016-07-15T19:44:05+08:00 ] ::1 /ms/index.php?s=/home/user/register.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009504s ]
+SQL: SHOW COLUMNS FROM `ms_license` [ RunTime:0.008478s ]
+SQL: SELECT * FROM `ms_license` WHERE ( `license` = 'exdiv9wcqe ' ) LIMIT 1   [ RunTime:0.000724s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = '18826233252' ) LIMIT 1   [ RunTime:0.000996s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = '18826233252' ) LIMIT 1   [ RunTime:0.000745s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `mobile` = '18826233252' ) LIMIT 1   [ RunTime:0.000860s ]
+SQL: INSERT INTO `ms_ucenter_member` (`username`,`password`,`mobile`,`reg_time`,`reg_ip`,`update_time`,`status`) VALUES ('18826233252','0188cc9fdee13e7a291ebf51c29e4aef','18826233252',1468583045,0,1468583045,1) [ RunTime:0.008613s ]
+SQL: UPDATE `ms_license` SET `license_status`=-1,`use_time`=1468583045,`user_phone`='18826233252' WHERE ( `license` = 'exdiv9wcqe ' ) [ RunTime:0.135100s ]
+
+[ 2016-07-15T20:06:05+08:00 ] ::1 /ms/index.php?s=/Home/User/getUserInfo
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.009617s ]
+SQL: SELECT * FROM `ms_member` WHERE ( `uid` = 1 ) LIMIT 1   [ RunTime:0.001288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002021s ]
+
+[ 2016-07-15T20:16:13+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003674s ]
+
+[ 2016-07-15T20:17:07+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002720s ]
+
+[ 2016-07-15T20:17:18+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002725s ]
+
+[ 2016-07-15T20:18:46+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002925s ]
+
+[ 2016-07-15T20:22:50+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007108s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001826s ]
+
+[ 2016-07-15T20:23:02+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007054s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.001047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001767s ]
+
+[ 2016-07-15T20:23:09+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008007s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000924s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001709s ]
+
+[ 2016-07-15T20:23:48+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007273s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000873s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001705s ]
+
+[ 2016-07-15T20:23:53+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007694s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000944s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001842s ]
+
+[ 2016-07-15T20:24:12+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007633s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000905s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001783s ]
+
+[ 2016-07-15T20:24:17+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007683s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000871s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001689s ]
+
+[ 2016-07-15T20:24:22+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007031s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000846s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001670s ]
+
+[ 2016-07-15T20:26:50+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+NOTIC: [8] Undefined index: token D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 990 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007333s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000859s ]
+
+[ 2016-07-15T20:27:17+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+NOTIC: [8] Undefined index: token D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 990 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009685s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000924s ]
+
+[ 2016-07-15T20:28:06+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+NOTIC: [8] Undefined index: token D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 990 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007414s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000844s ]
+
+[ 2016-07-15T20:28:39+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+NOTIC: [8] Undefined index: token D:\xampp\htdocs\ms\Application\Common\Common\function.php 第 991 行.
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009448s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000743s ]
+
+[ 2016-07-15T20:29:43+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007048s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000926s ]
+NOTIC: [2] Illegal string offset 'username' D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 201 行.
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007358s ]
+SQL: SELECT * FROM `ms_member` LIMIT 1   [ RunTime:0.000885s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001964s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002131s ]
+
+[ 2016-07-15T20:29:58+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008805s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000862s ]
+NOTIC: [2] Illegal string offset 'username' D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 201 行.
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007406s ]
+SQL: SELECT * FROM `ms_member` LIMIT 1   [ RunTime:0.000847s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002165s ]
+
+[ 2016-07-15T20:30:53+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008720s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000893s ]
+NOTIC: [2] Illegal string offset 'username' D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 201 行.
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007768s ]
+SQL: SELECT `nickname`,`sex`,`status`,`location`,`school` FROM `ms_member` LIMIT 1   [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002214s ]
+
+[ 2016-07-15T20:34:44+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009125s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000896s ]
+NOTIC: [2] Illegal string offset 'username' D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 201 行.
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.007547s ]
+SQL: SELECT `head_pic`,`nickname`,`sex`,`status`,`location`,`school`,`grade` FROM `ms_member` LIMIT 1   [ RunTime:0.000979s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002171s ]
+
+[ 2016-07-15T20:35:25+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008172s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000969s ]
+NOTIC: [2] Illegal string offset 'username' D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 201 行.
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.008415s ]
+SQL: SELECT `head_pic`,`nickname`,`sex`,`status`,`location`,`school`,`grade` FROM `ms_member` LIMIT 1   [ RunTime:0.000773s ]
+
+[ 2016-07-15T20:36:35+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.008632s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000954s ]
+NOTIC: [2] Illegal string offset 'username' D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 201 行.
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.008289s ]
+SQL: SELECT `head_pic`,`nickname`,`sex`,`status`,`location`,`school`,`grade` FROM `ms_member` LIMIT 1   [ RunTime:0.000907s ]
+
+[ 2016-07-15T20:36:54+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007829s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000887s ]
+NOTIC: [2] Illegal string offset 'username' D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 201 行.
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.008819s ]
+SQL: SELECT `head_pic`,`nickname`,`sex`,`status`,`location`,`school`,`grade` FROM `ms_member` LIMIT 1   [ RunTime:0.000800s ]
+
+[ 2016-07-15T20:39:29+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.009478s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000942s ]
+NOTIC: [2] Illegal string offset 'username' D:\xampp\htdocs\ms\Application\Home\Controller\UserController.class.php 第 201 行.
+SQL: SHOW COLUMNS FROM `ms_member` [ RunTime:0.009260s ]
+SQL: SELECT `head_pic`,`nickname`,`sex`,`status`,`location`,`school`,`grade` FROM `ms_member` LIMIT 1   [ RunTime:0.000845s ]
+
+[ 2016-07-15T20:46:12+08:00 ] ::1 /ms/index.php?s=/home/user/getUserInfo.html
+SQL: SHOW COLUMNS FROM `ms_ucenter_member` [ RunTime:0.007625s ]
+SQL: SELECT * FROM `ms_ucenter_member` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000984s ]
+
+[ 2016-07-15T21:00:32+08:00 ] ::1 /ms/index.php
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002919s ]
+
+[ 2016-07-15T21:00:57+08:00 ] ::1 /ms/index.php
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003153s ]
+
+[ 2016-07-15T21:01:20+08:00 ] ::1 /ms/index.php
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002600s ]
+
+[ 2016-07-15T21:01:23+08:00 ] ::1 /ms/index.php?s=/Admin/License/index.html
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.008628s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.001861s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%License/index%' ) LIMIT 1   [ RunTime:0.001073s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.007547s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=122 ) LIMIT 1   [ RunTime:0.000872s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 122 )  [ RunTime:0.000795s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 122 ) AND ( `hide` = 0 )  [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `ms_license` [ RunTime:0.007926s ]
+SQL: SELECT * FROM `ms_license`  [ RunTime:0.001247s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000260s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000387s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002316s ]
+
+[ 2016-07-15T21:01:24+08:00 ] ::1 /ms/index.php?s=/Admin/App/app_index.html
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.007452s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.001645s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%App/app_index%' ) LIMIT 1   [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.007730s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=123 ) LIMIT 1   [ RunTime:0.000782s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 123 )  [ RunTime:0.000924s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 123 ) AND ( `hide` = 0 )  [ RunTime:0.000876s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '排版' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.001066s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.001311s ]
+SQL: SHOW COLUMNS FROM `ms_app` [ RunTime:0.008644s ]
+SQL: SELECT * FROM `ms_app` WHERE ( `pid` = 1 )  [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.008335s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.016851s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000742s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000679s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.009074s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.005987s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000628s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000673s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000735s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000687s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000693s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000688s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000658s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000771s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.001024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000310s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000445s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.043557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001348s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002339s ]
+
+[ 2016-07-15T21:01:45+08:00 ] ::1 /ms/index.php?s=/Home/App/index
+SQL: SHOW COLUMNS FROM `ms_app` [ RunTime:0.008753s ]
+SQL: SELECT * FROM `ms_app` WHERE ( `pid` = 1 )  [ RunTime:0.001038s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.008961s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000836s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000699s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000685s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.000697s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000674s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000675s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000671s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000675s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000662s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000870s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000654s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000964s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000681s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001725s ]
+
+[ 2016-07-15T21:05:55+08:00 ] ::1 /ms/index.php?s=/Home/App/index
+SQL: SHOW COLUMNS FROM `ms_app` [ RunTime:0.013949s ]
+SQL: SELECT * FROM `ms_app` WHERE ( `pid` = 1 )  [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.008775s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000779s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000766s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000733s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.000936s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000703s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000682s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000682s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000673s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000651s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000678s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000833s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000741s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000706s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000679s ]
+
+[ 2016-07-15T21:13:46+08:00 ] ::1 /ms/index.php?s=/Admin/License/index.html
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.009326s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.001373s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%License/index%' ) LIMIT 1   [ RunTime:0.000940s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.007774s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=122 ) LIMIT 1   [ RunTime:0.000804s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 122 )  [ RunTime:0.000796s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 122 ) AND ( `hide` = 0 )  [ RunTime:0.000709s ]
+SQL: SHOW COLUMNS FROM `ms_license` [ RunTime:0.009634s ]
+SQL: SELECT * FROM `ms_license`  [ RunTime:0.001302s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000379s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000554s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.046094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002618s ]
+
+[ 2016-07-15T21:13:48+08:00 ] ::1 /ms/index.php?s=/Admin/App/app_index.html
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.019521s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.001368s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%App/app_index%' ) LIMIT 1   [ RunTime:0.001020s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.008414s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=123 ) LIMIT 1   [ RunTime:0.000819s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 123 )  [ RunTime:0.000906s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 123 ) AND ( `hide` = 0 )  [ RunTime:0.000803s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '排版' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000938s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000871s ]
+SQL: SHOW COLUMNS FROM `ms_app` [ RunTime:0.009059s ]
+SQL: SELECT * FROM `ms_app` WHERE ( `pid` = 1 )  [ RunTime:0.000860s ]
+SQL: SHOW COLUMNS FROM `ms_document` [ RunTime:0.007795s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000675s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000680s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000804s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.000661s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000626s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000702s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000660s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000700s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000771s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000687s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000635s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000715s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000729s ]
+SQL: SELECT `title`,`description`,`view` FROM `ms_document` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000663s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000328s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000476s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.034995s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035142s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002841s ]
+
+[ 2016-07-15T21:13:50+08:00 ] ::1 /ms/index.php?s=/Admin/App/app_review.html
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.031548s ]
+SQL: SELECT * FROM `ms_menu` WHERE ( `pid` = 0 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.001501s ]
+SQL: SELECT `id` FROM `ms_menu` WHERE ( url like '%App/app_review%' ) LIMIT 1   [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `ms_menu` [ RunTime:0.007105s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=125 ) LIMIT 1   [ RunTime:0.000775s ]
+SQL: SELECT `id`,`pid`,`title` FROM `ms_menu` WHERE ( id=123 ) LIMIT 1   [ RunTime:0.000694s ]
+SQL: SELECT DISTINCT  `group` FROM `ms_menu` WHERE ( pid = 123 )  [ RunTime:0.000881s ]
+SQL: SELECT `id`,`url` FROM `ms_menu` WHERE ( `pid` = 123 ) AND ( `hide` = 0 )  [ RunTime:0.000822s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '排版' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000947s ]
+SQL: SELECT `id`,`pid`,`title`,`url`,`tip` FROM `ms_menu` WHERE ( `group` = '' ) AND ( `pid` = 123 ) AND ( `hide` = 0 ) ORDER BY sort asc  [ RunTime:0.000879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001744s ]
+

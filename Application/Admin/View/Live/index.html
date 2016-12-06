@@ -1,0 +1,75 @@
+
+<extend name="Public/base" />
+
+<block name="body">
+    <div class="main-title cf">
+        <h2>直播列表</h2>
+    </div>
+    <div>
+        <a href="{:U('retrieve')}" class="btn">所有直播</a>
+        <a href="{:U('retrieve?status=1')}" class="btn">直播中</a>
+        <a href="{:U('retrieve?status=0')}" class="btn">未开始</a>
+        <a href="{:U('retrieve?status=3')}" class="btn">已结束</a>
+    </div>
+
+        <!-- 数据列表 -->
+        <div class="data-table table-striped">
+            <table>
+                <thead>
+                <tr>
+                    <th>直播名称</th>
+                    <!--<th>直播人</th>-->
+                    <th>直播ID</th>
+                    <th>状态</th>
+                    <th >开始时间</th>
+                    <th >结束时间</th>
+                    <th >描述</th>
+                    <th width="94px">操作</th>
+                </tr>
+                </thead>
+                <tbody>
+                <notempty name="_list">
+                    <volist name="_list" id="vo">
+                        <tr>
+                            <?php $vo = (array) $vo?>
+                            <td>{$vo.activityName}</td>
+                            <!--<td>//{:get_username($vo['uid'])}</td>-->
+                            <td>{$vo.activityId}</td>
+                            <td>
+                                <switch name="vo['activityStatus']" >
+                                    <case value="0">未开始</case>
+                                    <case value="1">直播中</case>
+                                    <case value="2">已中断</case>
+                                    <case value="3">已结束</case>
+                                    <default />未知
+                                </switch>
+                            </td>
+                            <td>{:date('Y-m-d H:i', strtotime($vo['startTime']))}</td>
+                            <td>{:date('Y-m-d H:i', strtotime($vo['endTime']))}</td>
+                            <td>{:strlen($vo['description']) <= 18 ?
+                                    $vo['description'] :
+                                    substr_replace($vo['description'],' .... ',18)}
+                            </td>
+                            <td>
+                                <a href="{:U('detail?activityId='.$vo['activityId'])}">详情</a>
+
+                                <if condition ="$vo['activityStatus'] == 1 || $vo['activityStatus'] == 0">
+                                    <a href="{:U('update?activityId='.$vo['activityId'])}">修改</a>
+                                </if>
+                                <if condition ="$vo['activityStatus'] == 1">
+                                    <a href="{:U('get_play_url?activityId='.$vo['activityId'])}">播放</a>
+                                </if>
+                            </td>
+                        </tr>
+                    </volist>
+                    <else/>
+                    <td colspan="6" class="text-center"> aOh! 暂时还没有内容! </td>
+                </notempty>
+                </tbody>
+            </table>
+        </div>
+        <!-- 分页 -->
+        <div class="page">
+            {$_page}
+        </div>
+    </block>
